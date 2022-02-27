@@ -1,0 +1,934 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hæreseo-machia: or, The mischiefe which heresies doe, and the means to prevent it. Delivered in a sermon in Pauls, before the Right Honourable, the Lord Maior, and the aldermen of the famous citie of London, February the first, M. DC. XLV. And now printed, for the satisfaction of the hearers, and others. / By James Cranford, pastour of Christopher Le Stocks, London.</title>
+            <author>Cranford, James, d. 1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80766</idno>
+            <idno type="STC">Wing C6823</idno>
+            <idno type="STC">Thomason E329_1</idno>
+            <idno type="STC">ESTC R200684</idno>
+            <idno type="EEBO-CITATION">99861364</idno>
+            <idno type="PROQUEST">99861364</idno>
+            <idno type="VID">113497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113497)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E329[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hæreseo-machia: or, The mischiefe which heresies doe, and the means to prevent it. Delivered in a sermon in Pauls, before the Right Honourable, the Lord Maior, and the aldermen of the famous citie of London, February the first, M. DC. XLV. And now printed, for the satisfaction of the hearers, and others. / By James Cranford, pastour of Christopher Le Stocks, London.</title>
+                  <author>Cranford, James, d. 1657.</author>
+               </titleStmt>
+               <extent>[8], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Young for Charles Green, and are to be sold at the signe of the Gun in Ivie-lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 2nd II, 17 --  Sermons.</term>
+               <term>Heresy --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113497:1" rendition="simple:additions"/>
+            <pb facs="tcp:113497:1" rendition="simple:additions"/>
+            <p>HAERESEO-MACHIA: OR, The miſchiefe which Hereſies doe, AND The means to prevent it. Delivered in a SERMON in <hi>Pauls,</hi> before the Right Honourable, the LORD MAIOR, and the ALDERMEN of the famous Citie of LONDON, <hi>February</hi> the firſt, M. DC. XLV. And now printed, for the ſatisfaction of the hearers, and others. By JAMES CRANFORD, Paſtour of <hi>Chri<g ref="char:EOLhyphen"/>ſtopher Le Stocks,</hi> London.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <bibl>
+                  <hi>Athan. ad Solitar.</hi>
+               </bibl>
+            </q>
+            <q>Diligite homines, interficite errores, ſine ſuperbia de veritate praeſumite, ſine ſaevitia pro veritate con<g ref="char:EOLhyphen"/>tendite. <bibl>
+                  <hi>Aug. cont. lit. Petil. lib.</hi> 1. <hi>cap.</hi> 29.</bibl>
+            </q>
+            <q>
+               <bibl>Jude 3.</bibl> 
+               <hi>It was needfull for mee to write unto you, and exhort you, that yee ſhould earnestly contend for the faith once delivered to the Saints.</hi>
+            </q>
+            <p>LONDON, Printed by <hi>James Young</hi> for <hi>Charles Green,</hi> and are to be ſold at the ſigne of the Gun in Ivie-lane, 1646.</p>
+            <pb facs="tcp:113497:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113497:2" rendition="simple:additions"/>
+            <head>TO THE RIGHT HONOURABLE THOMAS ADAMS, Lord Maior; THE RIGHT WORSHIPFULL, THE SHERIFFS; VVith the reſidue of the ALDERMEN Of the famous CITIE of LONDON.</head>
+            <opener>
+               <salute>Right Honourable, and Right Worſhipfull,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Meditations were in<g ref="char:EOLhyphen"/>tended onely for the Pul<g ref="char:EOLhyphen"/>pit, but are enforced to the Preſſe; not ſo much by the intreaties of friends, as importunities of adverſaries. I print
+<pb facs="tcp:113497:3"/> (to uſe <hi>Theodorets</hi> expreſsi<g ref="char:EOLhyphen"/>on) <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Epiſt. 83.</note> not to pleaſe or com<g ref="char:EOLhyphen"/>mend my ſelfe, but neceſ<g ref="char:EOLhyphen"/>ſitated to apologize, and to aſſert the verity of what I have delivered. Many aſperſions have been caſt upon me, upon my Sermon: <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I expe<g ref="char:EOLhyphen"/>cted them. <hi>The diſciple is not above his Maſter.</hi> The moſt of you were my hearers, I am contented you ſhould be my Judges: and reſt,</p>
+            <closer>
+               <signed>Your Honours and Worſhips Servant in the Goſpel, JAMES CRANFORD.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113497:3"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been my endeavour, in this Sermon, to diſcover unto thee, <hi>The miſchief that Hereſies doe, and the means to prevent it.</hi> It hath been my care (<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) to deliver the naked truth in plain expreſsions: Rotten poſts need pargetting, withered faces painting; Truth is moſt comely in her native colours, and hath ſtrength of her own, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to conquer by weakneſſe. It is poſ<g ref="char:EOLhyphen"/>ſible thou haſt heard (if not fomented) the great clamours raiſed againſt my ſelf and my Sermon, by Sectaries, whom it would better have beſeemed to <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Nazianz. Epiſt.</hi> 29. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Cyril. ad Neſtor. Epiſt.</hi> 4.</note> have amended themſelves, and their own errours, then to have a<g ref="char:EOLhyphen"/>ſperſed others, and given out ſuch unchriſtian language, when they were not at all injured, but only reproved, and that for their advantage. It is no great matter to mee to <hi>be judged of you, or of mans judgement,—he that judgeth me is the Lord.</hi> The teſtimony of my conſci<g ref="char:EOLhyphen"/>ence, and God the approver of <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>Theodoret. Epiſt.</hi> 99.</note> my doctrine, ſweep away (as a ſpiders web) the calumnies of ſycophants: yet to the intent I
+<pb facs="tcp:113497:4"/> may remove prejudice from thee, I ſhall ſpeak in a word to three objections, which are moſt frequent: Firſt, Some ſay, It was unſeaſonable. Why unſeaſonable? Becauſe others were ſilent. Nay rather, it was ſeaſonable, becauſe others were ſilent. I conceive, with <hi>Theodoret,</hi> that ſpeech or ſilence in this ſeaſon, diſtin<g ref="char:EOLhyphen"/>guiſheth <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>Epiſt.</hi> 77.</note> between the faithfull ſhepherd and the hireling. <hi>Pauls</hi> ſpirit was ſtirred in him when he ſaw the City wholly given to idolatry: And is it poſ<g ref="char:EOLhyphen"/>ſible for a faithfull Miniſter to be <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>Cyprian. ad Neſtor. Epiſt.</hi> 2.</note> ſilent when the faith is corrupted, and ſo many ſubverted? Muſt we not all appear before the judge<g ref="char:EOLhyphen"/>ment ſeat of Chriſt, and give an account of our unſeaſo<g ref="char:EOLhyphen"/>nable ſilence? But thanks be to God, there is no ground for ſuch an objection. Secondly, Others ſay, I was bit<g ref="char:EOLhyphen"/>ter, the Sermon a bloudy Sermon. I anſwer: Examine the quotations: Was I more bitter, more bloudy then the Scriptures? then the Fathers? Who called falſe Prophets <hi>ravening wolves, dogs, evill workers?</hi> Who wiſhed them cut off, commanded them to bee re<g ref="char:EOLhyphen"/>proved ſharply, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, cuttingly? Did not Chriſt? Did not the Apoſtle? Did not the Ancients account them <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <note place="margin">
+                  <hi>Cyril. in Joh lib.</hi> 1. <hi>cap.</hi> 4.</note> The workmen of deſtruction, the huntſmen of the Di<g ref="char:EOLhyphen"/>vell, the ſnares of death? Were theſe bitter, bloudy? If ſo, I will not bluſh to be in the ſame condemnation with my Saviour: Bitter pils may be wholeſom phyſick. Thirdly, Others ſay, All men ſpeak ill of mee: ſome re<g ref="char:EOLhyphen"/>ſolve never to hear more in that Auditory for my ſake, &amp;c. Reader, Let not this trouble thee; I paſſe through good report as well as bad. I am ſatisfied with the te<g ref="char:EOLhyphen"/>ſtimony
+<pb facs="tcp:113497:4"/> of <hi>Athanaſius,</hi> I have <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ad A<g ref="char:EOLhyphen"/>delphium.</hi>
+               </note> done as becometh a Miniſter of the Goſpel, and the doctrine of godli<g ref="char:EOLhyphen"/>neſſe, in my ſharpeſt reproofs a<g ref="char:EOLhyphen"/>gainſt theſe men. As for the peo<g ref="char:EOLhyphen"/>ple, <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Tom.</hi> 2.</note> I ſay, with the ſame Father, I reſpect thoſe people that adhere to the truth, not weather-cocks, and ſuch as delight in novelties. I conclude as <hi>Auſtin,</hi> You have heard their reproaches, which they had <note place="margin">Audiviſtis male dicta, quae ab illis non audirem, ſi ve<g ref="char:EOLhyphen"/>ſtram perditionem contemnerem, ſi charitatis viſcera non haberem. <hi>Cont. lit. Petil. l.</hi> 3. <hi>c.</hi> 10.</note> never caſt upon me, if I had been careleſſe of your ſalva<g ref="char:EOLhyphen"/>tion. Reader, I will detain thee no longer: the Ser<g ref="char:EOLhyphen"/>mon is now thine, reade it, try it, cenſure it, ſpare not; but remember, the ſcene will be changed, it ſhall one day try, and cenſure thee. <hi>Vale.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>From my Study,</hi> 
+                  <date>
+                     <hi>this</hi> 16. <hi>of March,</hi> 1645.</date>
+               </dateline>
+               <signed>JA. CRANFORD.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:113497:5"/>
+            <head>The Analyſis of the Sermon.</head>
+            <list>
+               <item>
+                  <hi>D.</hi>
+                  <list>
+                     <item>Erroneous opinions eat as a Gan<g ref="char:EOLhyphen"/>grene
+<list>
+                           <item>1. Speedily, 5</item>
+                           <item>2. Incurably, 5</item>
+                           <item>3. Mortally, 6
+<list>
+                                 <item>1. Faith
+<list>
+                                       <item>
+                                          <hi>Quae,</hi> 8</item>
+                                       <item>
+                                          <hi>Quâ,</hi> 9</item>
+                                    </list>
+                                 </item>
+                                 <item>2. Peace
+<list>
+                                       <item>Church 10</item>
+                                       <item>Civill 10</item>
+                                    </list>
+                                 </item>
+                                 <item>3. Piety 14</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>R.</hi>
+                  <list>
+                     <item>1. Hereticks are
+<list>
+                           <item>1. Subtil, 17</item>
+                           <item>2. Active, 28</item>
+                        </list>
+                     </item>
+                     <item>2. People are
+<list>
+                           <item>1. Ignorant, 30</item>
+                           <item>2. Curious, 31</item>
+                        </list>
+                     </item>
+                     <item>God is juſt
+<list>
+                           <item>1. Puniſhing lukewarmneſſe, 32</item>
+                           <item>2. Manifeſting the approved, 33</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Uſe.</hi>
+                  <list>
+                     <item>Prevent and ſtop them,
+<list>
+                           <item>1. People
+<list>
+                                 <item>1. Adhere to the Miniſtry, 36</item>
+                                 <item>2. Try all things, 38</item>
+                                 <item>3. Avoid Seducers, 39</item>
+                              </list>
+                           </item>
+                           <item>2. Miniſters
+<list>
+                                 <item>1. Convince, 42</item>
+                                 <item>2. Caſt out, 44</item>
+                              </list>
+                           </item>
+                           <item>3. Magiſtrates, what they
+<list>
+                                 <item>1. Have done 47</item>
+                                 <item>2. May doe 47</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113497:5"/>
+            <head>HAERESEO-MACHIA, OR, The miſchiefe which Hereſies doe, and the means to prevent it.</head>
+            <epigraph>
+               <q>
+                  <bibl>2 TIM. 2. 17.</bibl> 
+                  <hi>And their word will eat as doth a canker,</hi> (or a gangrene) <hi>of whom is Hymeneus and Philetus,</hi> &amp;c.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE bleſſed Apoſtle was, at the wri<g ref="char:EOLhyphen"/>ting of this Epiſtle, now ready to be offered up, as you may ſee Chap. 4. 6. <hi>I am now ready to be offered up, and the time of my departure is at hand.</hi> He writes this Epiſtle, as his laſt Will and Teſtament, to <hi>Timothy</hi> his <hi>own ſon in the faith,</hi> to give him direction how to behave himſelf in the Church of God, <hi>which is the houſe of God, the pillar and ground of truth.</hi> Hee beſtowes upon him good coun<g ref="char:EOLhyphen"/>ſell (as a legacy) that hee ſhould be painfull in his do<g ref="char:EOLhyphen"/>ctrine, and watchfull over his converſation, and propo<g ref="char:EOLhyphen"/>ſeth himſelfe as an example, Chap. 3. 10. <hi>Thou haſt fully known my doctrine, manner of life, purpoſe, faith, long-ſuffer<g ref="char:EOLhyphen"/>ing, charity, patience: Diſce, puer, virtutem ex me;</hi> Learn, my ſon, painfulneſſe and watchfulneſſe of mee; <note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ignat. ad E<g ref="char:EOLhyphen"/>pheſ.</note> I re<g ref="char:EOLhyphen"/>quire no more of thee then I my ſelfe have given thee in pattern, <hi>Thou haſt fully known, &amp;c.</hi> Now the Apoſtle, <hi>not ignorant of the wiles</hi> of the divell, his main engines a<g ref="char:EOLhyphen"/>gainſt the two pillars of the Church, <note n="b" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Id. ibid.</note> 
+               <hi>faith</hi> and <hi>love,</hi> (the <hi>bonds</hi> of our <hi>union</hi> with our <hi>head,</hi> and with his <hi>body)</hi> and his endeavours to overthrow <hi>love</hi> by the overthrow of <hi>faith,</hi>
+               <pb n="2" facs="tcp:113497:6"/> hee warns him in a ſpeciall manner to <hi>hold faſt the forme of ſound words,</hi> and to <hi>ſhew himſelfe a workman that need not be aſhamed, rightly dividing the word of truth: to avoid pro<g ref="char:EOLhyphen"/>fane and vaine janglings, which would increaſe to more un<g ref="char:EOLhyphen"/>godlineſſe.</hi> And hee urgeth the ſame exhortation in my Text, from the <hi>miſchiefe</hi> that will come to the Church by ſuch vain janglings: <hi>Their word will eat as doth a gangrene, of whom is Hymeneus and Philetus.</hi>
+            </p>
+            <p>The Text therefore diſcovers the miſchief of unſound teachers, or unſound doctrine; where wee conſider, Firſt, <hi>the Subject, Their word:</hi> illuſtrated by an <hi>instance, Of whom is Hymeneus and Philetus, who have erred,</hi> &amp;c. Secondly, the <hi>Adjunct, Will eat,</hi> or will have paſture; ſet out by a <hi>ſimilitude, As doth a canker,</hi> or a gangrene. Thus you have the connexion, the ſcope, and parts of this verſe, out of which I ſhall propoſe one Obſervation: In the proſecution of which, other things may happely be touched upon <hi>in tranſitu.</hi> The Doctrine is this:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>
+               </label> 
+               <hi>Erroneous and unſound doctrine is of a devouring</hi> (i. e. ſpreading and deſtroying) <hi>nature: Their word</hi> (ſaith the Apoſtle) <hi>will eat as doth a gangrene.</hi>
+            </p>
+            <p>The Apoſtle <hi>Peter,</hi> ſpeaking of falſe teachers, aſſures us, that <hi>they ſhall privily bring in damnable hereſies, even de<g ref="char:EOLhyphen"/>nying</hi> 
+               <note place="margin">2 Pet. 2. 1, 2.</note> 
+               <hi>the Lord that bought them:</hi> And, that <hi>many ſhall fol<g ref="char:EOLhyphen"/>low their pernicious wayes, by reaſon of whom the truth ſhall be evill ſpoken of.</hi> I pray you obſerve it; Hereſies, errone<g ref="char:EOLhyphen"/>ous doctrines, are damnable, <hi>They ſhall bring in damnable hereſies.</hi> They are of a <note n="c" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Theoph. ad Anaylo. l. 2. Tit. 1. 11.</note> deſtroying nature. They are of a ſpreading nature, <hi>Many ſhall follow their pernicious wayes.</hi> So alſo <hi>Paul</hi> a<g ref="char:EOLhyphen"/>verres to <hi>Titus;</hi> They <hi>ſubvert whole houſes, teaching things which they ought not, for filthy lucre ſake.</hi> Hereſies are of a <hi>deſtroying</hi> nature; <hi>They ſubvert</hi> the houſe, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they undermine it, and overturn it from the foundation: They are of a <hi>ſpreading</hi> nature; <hi>They ſubvert whole houſes,</hi> many houſes are overturned. But by what is all this? <hi>ſpeaking things which they ought not,</hi>
+               <pb n="3" facs="tcp:113497:6"/> 
+               <hi>for filthy lucre ſake.</hi> Our Saviour Chriſt warns his diſciples to beware of the <hi>leaven of the Phariſees, and of the Saddu<g ref="char:EOLhyphen"/>ces,</hi> 
+               <note place="margin">Matth. 16. 6. 11, 12.</note> which is expounded of <hi>their doctrine:</hi> Their erro<g ref="char:EOLhyphen"/>neous and falſe doctrine is compared to leaven, which is a fit <note n="d" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Cyril. de ador. in ſp. &amp; verit. lib. 15.</note> reſemblance of all doctrine. The do<g ref="char:EOLhyphen"/>ctrine of the Goſpel is compared to leaven, <hi>Luke</hi> 13. 22. and the corrupt doctrine of the Phariſees is compared to leaven, becauſe, As a little leaven leavens the whole lump, and quickly ſowres all; ſo do<g ref="char:EOLhyphen"/>ctrine, <note n="e" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Cy<g ref="char:EOLhyphen"/>ril. ibid. l. 17.</note> when it once ſinks into a mans minde, and gets into the heart, it doth (as it were) tranſlate the ſoule, and ſpirit, and bo<g ref="char:EOLhyphen"/>dy, even the whole man, into the ſimilitude, qualitie, nature of it ſelfe. It is not onely thus ſpreading over a perſon; but (the Church is a bo<g ref="char:EOLhyphen"/>dy, as ſaith the Apoſtle, <hi>Ye are the body of Chriſt, and mem<g ref="char:EOLhyphen"/>bers</hi> 
+               <note place="margin">1 Cor. 12. 27.</note> 
+               <hi>in particular)</hi> erroneous doctrine no ſooner gets into a Church, but it overſpreads it, runs thorow all, and corrupts, and ſowres all, as ſaith the Apoſtle, <hi>Gal.</hi> 5. 9. <hi>A little leaven leaveneth the whole lump.</hi> Erroneous opi<g ref="char:EOLhyphen"/>nions are interpreted by <note n="f" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Juſt. Mart. ad or<g ref="char:EOLhyphen"/>tho. qu. 1.</note> ſome to be thoſe tares, which the envious man and the adver<g ref="char:EOLhyphen"/>ſary ſowed in the field where Chriſt had ſowed his good ſeed, <hi>Matth.</hi> 13. 25. Tares, if they be ſowed in a field, quickly over-ſpread the whole field, and choak up the good ſeed, and are therefore (if wee may beleeve <hi>Baſil</hi> 
+               <note n="g" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, In He<g ref="char:EOLhyphen"/>xam. hom. 5.</note>) a fit reſemblance of ſuch who put a falſe ſtamp upon the do<g ref="char:EOLhyphen"/>ctrines of Chriſt, and, being themſelves infe<g ref="char:EOLhyphen"/>cted with the doctrine of the divell, inter<g ref="char:EOLhyphen"/>mingle themſelves with the healthfull body of the Church, that they may, undiſcerned, diffuſe their poyſon into the ſoules of thoſe that are unlearned, or well meaning. The ſame Father in another <note n="h" place="margin">Hex. hom. 2.</note> place compares here<g ref="char:EOLhyphen"/>ſies &amp; erroneous opinions <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to a noiſome canker, or carbuncle, which is no leſſe dangerous then infectious.</p>
+            <pb n="4" facs="tcp:113497:7"/>
+            <p>Saint <hi>James</hi> tels us of a <hi>tongue that is ſet on fire by hell,</hi> 
+               <note place="margin">Jam. 3. 6.</note> 
+               <hi>and ſetteth on fire the whole courſe of nature.</hi> Would you know what tongue this is? It is the falſe tongue, the lying tongue, which <hi>David</hi> compares to <hi>ſharp arrowes of</hi> 
+               <note place="margin">Pſal. 120. 3.</note> 
+               <hi>the mighty, and coals of Juniper.</hi> I am not ignorant that <hi>Hilary, Chryſostome, Auguſtine</hi> underſtand this of the pu<g ref="char:EOLhyphen"/>niſhment: <note place="margin">In locum.</note> 
+               <hi>Moller, Marlorate, Ameſius, &amp;c.</hi> of the miſ<g ref="char:EOLhyphen"/>chievouſneſſe of the falſe tongue; which is compared to coals of Juniper, hot burning, hard to be quenched, keeping fire exceeding long, and eaſily ſpreading it into every ſubject; ſuch coals is an hereticall tongue. <note n="i" place="margin">Arius <hi>in Alexandria ſcintilla una fuit, ſed quia non ſtatim oppreſſa, to<g ref="char:EOLhyphen"/>tum orbem ejus flamma populata est,</hi> Hieron. in Gal. 5. lib. 3.</note> 
+               <hi>Arius</hi> was but one ſingle ſpark, yet, becauſe not ſpeedily put out, hee ſet the whole world on fire; ſo that the world did admire that it was become <hi>Arian.</hi> And the Prophet compares the tongue to a bow, <hi>(Jer.</hi> 9. 3. <hi>They</hi> 
+               <note place="margin">Jer. 9. 3.</note> 
+               <hi>have bent their tongues, their bowes, for lies)</hi> and the words to arrowes, <hi>Pſal.</hi> 64. 3. <hi>That they may ſhoot out their arrows,</hi> 
+               <note place="margin">Pſal. 64. 3.</note> 
+               <hi>bitter words.</hi> If theſe things be true of a ſlanderous tongue, that calumniates men; how much more true of a falſe tongue, that perverts truth, and blaſphemes God? There are no words ſo bitter as the words of hereſie; they are <note n="k" place="margin">
+                  <hi>Inſtar ſagittarum ſermones ipſorum corda vulnerant,</hi> No<g ref="char:EOLhyphen"/>var. l. 9. Elect. ſac. Sect. 13.</note> ſharp arrowes, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> arrowes that have teeth: theſe words are de<g ref="char:EOLhyphen"/>vouring words, <hi>Pſal.</hi> 52. 4.</p>
+            <p>Our Saviour Chriſt compares falſe prophets to <hi>rave<g ref="char:EOLhyphen"/>nous wolves,</hi> whoſe property it is, not to worry a ſheep, but make havock of a flock; not to devour one, but ſcatter all: The truth is ſufficiently declared out of Scri<g ref="char:EOLhyphen"/>pture; Hereſies do eat as doth a canker or a gangrene. Let us now conſider,</p>
+            <list>
+               <item>1. The reſemblance between a gangrene and hereſie in the manner of eating.</item>
+               <item>2. What it is that hereſies eat.</item>
+               <item>3. How it comes to paſſe that they ſo eat: And then make ſome Application.</item>
+            </list>
+            <p>Firſt, for the reſemblance: Firſt, Hereſies, like a
+<pb n="5" facs="tcp:113497:7"/> gangrene, eat <hi>ſpeedily:</hi> a gangrene, though it ſhew it ſelf in the fartheſt part of the body, yet in a very little while will be gotten to the heart, the principall part of the body, and quickly kill the man. Hereticall opinions do on the ſudden make a large progreſſe; <hi>I marvell</hi> (ſaith <note place="margin">Gal. 5. 6.</note> the Apoſtle) <hi>you are ſo ſoon removed from him that called you into the grace of Christ, into another Goſpel.</hi> It bred ad<g ref="char:EOLhyphen"/>miration in the Apoſtle, not ſo much that they were moved, as that they were ſo <hi>ſuddenly</hi> moved; that there ſhould be ſuch a ſtrange, becauſe <hi>ſpeedy,</hi> alteration. Ac<g ref="char:EOLhyphen"/>cording to the expoſition of <note n="l" place="margin">Beda <hi>&amp;</hi> Ty<g ref="char:EOLhyphen"/>conius <hi>apud</hi> Pareum. Apoc. 6. 5.</note> ſome, S. <hi>John</hi> ſees hereſie on horſe-back, with a paire of balances in the hand: it goes not on foot ſlowly, but rides, for more haſte. Aria<g ref="char:EOLhyphen"/>niſme in a ſhort ſpace overſpread the Eaſt, Pelagianiſme the world. Wee need not ſearch ſtories for preſidents, it is lamentable what ſucceſſe errours have had amongſt our ſelves in theſe laſt three or four yeers of Eccleſiaſti<g ref="char:EOLhyphen"/>call Anarchy and confuſion, whether wee reſpect the numbers of errours, or of the erroneous. Amſterdam, Poland, Tranſilvania, places moſt infamous for hereſies, are now righteous, compared with England, London, which in ſo ſhort a ſpace have broached, or entertained above 160 errours, many of them damnable, of which you ſhall have an <note n="m" place="margin">M. <hi>Edwards</hi> Gangrene.</note> account not long hence.</p>
+            <p>Secondly, Hereſies, like a gangrene, eat almoſt <hi>incu<g ref="char:EOLhyphen"/>rably:</hi> It is an hard matter to ſtop the ſpreading of a gangrene. <hi>Ure, ſeca;</hi> it is the Chirurgians rule, <hi>Cut,</hi> and <hi>burn:</hi> the diſmembring of the part affected will ſcarce ſtay the gangrene; and it becomes altogether incurable, if it once come to that which they call <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the height of it. I will not give you the reaſon of it in na<g ref="char:EOLhyphen"/>ture, I come not to read a Phyſick lecture: ſure I am, it is ſo amongſt opinions; if they be once received in, they are hardly, or never cured: they are alwayes grow<g ref="char:EOLhyphen"/>ing to mortification, to make the party ſenſeleſſe and liveleſſe in whom they are. The Apoſtle tels us, that they that <hi>ſpeake lies in hypocriſie, have their conſcience ſeared,</hi> 
+               <note place="margin">1 Tim. 4. 2.</note>
+               <pb n="6" facs="tcp:113497:8"/> 
+               <hi>as it were, with an hot iron:</hi> They are paſt feeling, they <note place="margin">2 Tim. 3. 8.</note> are <hi>men</hi> 
+               <note n="n" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>of corrupt mindes, reprobate concerning the faith:</hi> They have <hi>laeſum principium,</hi> are without underſtanding: They are as <hi>trees, twice dead, and pull'd up by the roots:</hi> and <note place="margin">Jude 11, 12.</note> can wee expect a cure? It was the complaint of the Church concerning Babylon, <hi>Wee would have healed Ba<g ref="char:EOLhyphen"/>bylon, and ſhee would not be healed:</hi> It may be our com<g ref="char:EOLhyphen"/>plaint concerning ſuch as are miſlead by opinions, Wee would have healed them, but they would not be healed; but rather, as the Prophet ſpeaks, <hi>When I would have hea<g ref="char:EOLhyphen"/>led</hi> 
+               <note place="margin">Hoſ. 7. 1.</note> 
+               <hi>Iſrael, the iniquity of Ephraim was diſcovered, and the ſin of Samaria,</hi> &amp;c. they grow worſe and worſe under their medicine. <note n="o" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Athan. tom. 1. contra Arian. orat. 4.</note> 
+               <hi>Athanaſius</hi> compares ſome in his time to the ſerpent <hi>Hydra,</hi> of which the Poets fable, that when one head was cut off, divers roſe in the ſtead of it; it increaſed by being dimini<g ref="char:EOLhyphen"/>ſhed: ſo (ſaith hee) theſe fighters a<g ref="char:EOLhyphen"/>gainſt, and haters of God, though often convinced, confuted, ſilenced, yet will not yeeld; ſtudy new arguments, finde out new cavils, and are more impudent then their father the Divell himſelfe, who would be aſhamed, and tremble to oppoſe ſuch light as they contradict and murmure againſt. Thus much that Ancient; which our experience verifies.</p>
+            <p>Thirdly, Hereſies, like a gangrene, eat <hi>mortally:</hi> A gangrene, in what part of the body ſoever, if not pre<g ref="char:EOLhyphen"/>vented, is mortall; it ſtrikes to the heart: ſo it is with hereſies, and errours in opinion, though they ſeem at firſt but little ſpots (as a gangrene diſcovers it ſelf by little black ſpots in the out-ſide of the skin) yet, if they be not ſtopped, will attach the heart. In the verſe before the Text, <hi>They will increaſe to more ungodlineſſe: Dato uno abſurdo, ſequentur infinita.</hi> But of this more in another place. The Apoſtle <hi>Peter</hi> gives them the Epi<g ref="char:EOLhyphen"/>thete
+<pb n="7" facs="tcp:113497:8"/> of <hi>Damnable: Paul</hi> reckons them up amongſt the <note place="margin">2 Pet. 2. 1. Gal. 5. 19.</note> works of the fleſh, which ſhut out of the kingdome of God. This ſeems an harſh doctrine to Arminians, Se<g ref="char:EOLhyphen"/>ctaries, other patrons of errour; but it is the doctrine of the Scriptures, of the Church in all ages. <note n="p" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ignat. ad Epheſ.</note> 
+               <hi>Ignatius,</hi> one of the moſt ancient, and a ſcholar of the Apoſtles, aſſures us, that both ſeducing and ſeduced he<g ref="char:EOLhyphen"/>reticks ſhall periſh for ever, and that with as good reaſon, as, a<g ref="char:EOLhyphen"/>mongſt men, they that break houſes are put to death. O, that wee did ſeriouſly con<g ref="char:EOLhyphen"/>ſider this, Hereſies are as mortall as gangrenes. <hi>The thiefe</hi> 
+               <note place="margin">John 10. 10.</note> 
+               <hi>cometh not but to ſteale, to kill, and to deſtroy:</hi> The falſe pro<g ref="char:EOLhyphen"/>phet, <hi>like a roaring lion ravening the prey, devours ſoules,</hi> 
+               <note place="margin">Ezek. 22. 25.</note> ſaith the Lord by the Prophet <hi>Ezekiel,</hi> chap. 22. v. 25. So <hi>Cyril,</hi> 
+               <note n="q" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Cyril. in Ho<g ref="char:EOLhyphen"/>ſeam.</note> They feaſt it with the ſouls of ſimple people, which they grinde with the teeth of errour. O, that this was laid to heart. There is no more ſafety for men under the guidance of erroneous teachers, then for ſheep under the protection of a ravening wolfe: Hereti<g ref="char:EOLhyphen"/>call opinions are not imbraced without the extremeſt hazzard of the precious ſoule. Wee fear a gangrene; it kils the body: why doe wee delight in (at leaſt favour, and not abhorre) erroneous opinions, which deſtroy the ſoul? <hi>What ſhall it profit a man, if hee win the whole world,</hi> 
+               <note place="margin">Matth. 16.</note> 
+               <hi>and loſe his ſoul? and what will hee give in exchange for his ſoul?</hi> Prize wee not that which Chriſt hath purchaſed with his deareſt bloud? Or, doe we undervalue that pre<g ref="char:EOLhyphen"/>cious bloud by which wee were redeemed? Shall wee re<g ref="char:EOLhyphen"/>nounce <hi>the Lord that bought us?</hi> Or, ſhall wee make inef<g ref="char:EOLhyphen"/>fectuall ſo great a purchaſe? Are wee <hi>enemies to the croſſe of Chriſt?</hi> Or, ſhall wee make <hi>his death</hi> vain? <note n="r" place="margin">Naz. orat. 42. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Nazian<g ref="char:EOLhyphen"/>zene</hi> tels us, ſpeaking of here<g ref="char:EOLhyphen"/>ticks, that they are unthank<g ref="char:EOLhyphen"/>full
+<pb n="8" facs="tcp:113497:9"/> creatures, the off-ſpring of the divel, for whom Chriſt is dead in vain. A hard ſentence, may ſome one happely ſay; therefore let us proceed to the ſecond thing propoſed, and ſee what it is that hereſies deſtroy.</p>
+            <p n="2">2. The Apoſtle in the Text uſeth this phraſe, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, tranſlated, <hi>it will eat;</hi> it may be rendred, <hi>will have paſture;</hi> for the word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies not onely the action, <hi>eating,</hi> but the object alſo, the <hi>paſture,</hi> the food which is eaten up. There are three precious things which hereſies devour:</p>
+            <p>Firſt, <hi>Faith;</hi> which is taken ſometimes <note n="ſ" place="margin">
+                  <list>
+                     <item>Fides quae cre<g ref="char:EOLhyphen"/>di<g ref="char:EOLhyphen"/>tur.</item>
+                     <item>Fides quâ cre<g ref="char:EOLhyphen"/>di<g ref="char:EOLhyphen"/>tur.</item>
+                  </list>
+               </note> for the doctrine of faith, or the truth beleeved; ſometimes for the act of faith, or the grace of beleeving: erroneous opinions o<g ref="char:EOLhyphen"/>verthrow and deſtroy both.</p>
+            <p n="1">1. Concerning the former, the doctrine of faith, there can no queſtion be made: Errours deſtroy truth; And, <hi>as Jannes and Jambres withſtood Moſes, ſo do theſe alſo reſiſt the</hi> 
+               <note place="margin">2 Tim. 3. 8.</note> 
+               <hi>truth: men of corrupt mindes, reprobate concerning the faith.</hi> Thus faith the Apoſtle of <hi>Hymeneus and Philetus, Concer<g ref="char:EOLhyphen"/>ning</hi> 
+               <note place="margin">2 Tim. 2. 18.</note> 
+               <hi>the truth they have erred.</hi> Falſe prophets, among the people, <hi>ſtole away the word of God every one from his neighbour:</hi> 
+               <note place="margin">Jer. 23.</note> Falſe teachers, amongſt us, <hi>adulterate and ſophiſticate the</hi> 
+               <note place="margin">2 Cor. 2.</note> 
+               <hi>word of God.</hi> As it is in nature, darkneſs deſtroyes the light, blindneſs puts out the ſight, ſickneſſe removes health; ſo is it in this matter, errours deſtroy, put out, remove truth. Thus <note n="u" place="margin">
+                  <hi>Dum plures fi<g ref="char:EOLhyphen"/>unt, ad id coepe<g ref="char:EOLhyphen"/>runt eſſe nè ulla ſit,</hi> Ad Conſt.</note> 
+               <hi>Hilarius</hi> obſerves concerning the various confeſſi<g ref="char:EOLhyphen"/>ons of the Arians; They made many, that thy might have none. This is a ſore miſchief under which our Church for the preſent labours; there is ſcarcely any truth which is not by one opinion or other directly oppoſed, or indirect<g ref="char:EOLhyphen"/>ly undermined: And could any other iſſue of our wan<g ref="char:EOLhyphen"/>tonneſs be expected? <note n="x" place="margin">
+                  <hi>Abdicatâ quâlibet parte Catholici dogmatis, alia quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> item alia, &amp; deinceps alia, &amp; alia jam quaſi ex more, &amp; licito abdicabuntur. Porro autem ſingulatim partibus repudiatis, quid aliud ad extremum ſequetur, niſi ut totum pariter repudietur? Si novitia veteribus, extranea domeſticis, prophana ſacratis admiſceri coepe<g ref="char:EOLhyphen"/>rint proſerpat hic mos in univerſum neceſſe eſt, ut nihil poſthac apud Eccleſiam relinquatur intactum;—ſed ſit ibidem deinceps impiorum, ac turpium errorum lupanar, ubi erat ante castae &amp; incorruptae ſacrarium veritatis,</hi> Contr. Haereſ. c. 3 1.</note> When any branch of divine truth is by any rejected, (it is the ob<g ref="char:EOLhyphen"/>ſervation of <hi>Vincentius Liri<g ref="char:EOLhyphen"/>nenſis)</hi> preſently another, and
+<pb n="9" facs="tcp:113497:9"/> another, after that another and another will be rejected, till at laſt none at all be left remaining.</p>
+            <p>Thus it fell out in the Church of Rome, which, from errours in the beginning little, in compariſon, and almoſt inſenſible, is become the miſtreſſe and mother of abominations, the ſink and ſea of hereſies. Thus with the Anabaptiſts, who erring at the firſt but in one par<g ref="char:EOLhyphen"/>ticular, have proceeded ſome of them in other parts, to eight and forty more, many of them dangerous, and ra<g ref="char:EOLhyphen"/>cing the foundation. Who did not fear whither our late Prelaticall innovations tended? It was not with<g ref="char:EOLhyphen"/>out cauſe, that the <note n="y" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Greg. Niſſ. contr. Eunom.</note> Ancients ac<g ref="char:EOLhyphen"/>counted the leaſt alteration in mat<g ref="char:EOLhyphen"/>ters of faith to be the extremeſt blaſ<g ref="char:EOLhyphen"/>phemy and ungodlineſſe; <note n="z" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Theodo<g ref="char:EOLhyphen"/>ret. Eccl. hiſt. l. 4. cap. 16.</note> That they have willingly undergone all kinds of death, rather then deſerted one ſyllable of the truth: The leaſt errour entertained, prepares the way for greater, diſpoſes the heart to re<g ref="char:EOLhyphen"/>ject all truth, as the pulling one ſtone out of an arch, diſ<g ref="char:EOLhyphen"/>poſeth the whole to ruine.</p>
+            <p n="2">2. Concerning the latter, (the grace, or act of belee<g ref="char:EOLhyphen"/>ving) the Apoſtle ſpeaks expreſly, <hi>They overthrew the faith of ſome.</hi> This ſad effect of erroneous teachers is no<g ref="char:EOLhyphen"/>tably deſcribed by <hi>Athanaſius;</hi> If <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, De Synod. Arim. Saleu. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ibid.</note> themſelves (ſaith hee) had beleeved, they would not have made any far<g ref="char:EOLhyphen"/>ther inquiry; but their diſputings have been no ſmall ſcandall to thoſe that were initiated in the Chriſtian religion, and a great ground of pro<g ref="char:EOLhyphen"/>fuſe laughter to Pagans, in that Chriſtians, as newly awaked out of a profound ſleep, enquire what they ought to beleeve concerning Chriſt. Their new o<g ref="char:EOLhyphen"/>pinions make beleevers infidels, and infidels more adverſe
+<pb n="10" facs="tcp:113497:10"/> to faith. Wee ſee this amongſt our ſelves; what mul<g ref="char:EOLhyphen"/>titudes, unſetled by unſound doctrine, have changed their faith, either to Scepticiſme, to doubt of every thing; or Atheiſme, to beleeve nothing? And it hath been a juſt reward upon ſeducers, that themſelves have been de<g ref="char:EOLhyphen"/>ſervedly <note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; A<g ref="char:EOLhyphen"/>thanaſ. ibid.</note> diſtruſted and deſerted by their followers, whom they had taught, not to beleeve their teachers. Thus much of the firſt miſchief of hereſies, That they de<g ref="char:EOLhyphen"/>ſtroy <hi>faith.</hi>
+            </p>
+            <p n="2">2. The ſecond thing which hereſies eat up is <hi>Peace:</hi> they devour <hi>Peace, the legacy of Christ, and Love, the bond of perfection.</hi> They overthrow the peace of the Church, they diſturbe the peace of the Common-wealth. <hi>From hence (that men conſent not to ſound doctrine, but are ſick about questions) cometh envie, ſtrife, reviling, evill ſur<g ref="char:EOLhyphen"/>miſings,</hi> &amp;c. And where envie is, where evill ſurmiſings and jealouſies, what peace can there be? When that falſe doctrine was broached at Antioch, <hi>there was no ſmall diſ<g ref="char:EOLhyphen"/>ſention</hi> 
+               <note place="margin">Act. 15. 2, 24.</note> 
+               <hi>and diſputation, the Church was troubled with words ſubverting their ſoules:</hi> The troubles aroſe ſo high, that an oecumenicall Synod, or Councell of the world was neceſſary for the compoſing of that difference. The like befell the Churches of Galatia. I ſpare the further con<g ref="char:EOLhyphen"/>firmation <note place="margin">Galat. 5.</note> of this; it is confeſſed, it is evidenced by the Holland Arminians, the new-England Familiſts: it will not be much laid to heart, being conceived by many as a matter of no great conſequence. If errours ariſe in the Church, the Common-wealth will not want con<g ref="char:EOLhyphen"/>fuſion, it muſt needs ſuffer (as the Phyſician ſpeaks) <hi>per conſenſum:</hi> and that in regard of the juſt judgement of God revenging the corrupting of his worſhip, and pro<g ref="char:EOLhyphen"/>fanation of his name. Thus it befell Iſrael, <hi>They ſerved ſtrange gods, then was warre in the gates;</hi> and of all warres <note place="margin">Judg. 5.</note> that which is moſt cruell and deſtructive, civill and in<g ref="char:EOLhyphen"/>teſtine warre, <hi>For Nation was destroyed of Nation, Citie of</hi> 
+               <note place="margin">2 Chro. 15.</note> 
+               <hi>Citie,</hi> &amp;c. This is the righteous hand of God, that they that will not maintain peace with heaven, ſhall have
+<pb n="11" facs="tcp:113497:10"/> trouble on earth. I reade not of any contentions more bitter, then thoſe grounded on diſſentions in religion: <hi>The Jewes had no dealings with the Samaritans,</hi> not ſo much <note place="margin">Joh. 6. 9.</note> as for <hi>a cup of cold water,</hi> or <hi>a nights lodging:</hi> what was the reaſon? The difference in religion: <hi>one ſaid, Ye muſt worſhip in this mountain: The other, Jeruſalem is the place where men ought to worſhip.</hi> The difference was not great, onely this; the Samaritans would be a Church inde<g ref="char:EOLhyphen"/>pendent to Jeruſalem, they would worſhip in that moun<g ref="char:EOLhyphen"/>tain, but there was no dealing between them. Ephraim did not ceaſe to <hi>envie Judah, Judah did not ceaſe to vex Ephraim,</hi> till they were both turned unto the Lord, to ſerve him with one conſent; <hi>they grow not up into one king<g ref="char:EOLhyphen"/>dome,</hi> 
+               <note place="margin">Ezek. 37.</note> 
+               <hi>till they have accorded into one Church.</hi>
+            </p>
+            <p>It is commonly replyed in Pulpits, in Preſſes, That a toleration of all conſciences, even <hi>Antichriſtian,</hi> would be a ſoveraign remedy to cure all diſſentions, and an ef<g ref="char:EOLhyphen"/>fectuall means to compoſe the warres of Chriſtendome: all the blood that hath for ſo many yeers been ſhed, is charged upon the reſtraint of this licentiouſneſſe, igno<g ref="char:EOLhyphen"/>rantly or maliciouſly termed perſecution.</p>
+            <p>I anſwer, It is beſides my purpoſe to diſcuſſe this que<g ref="char:EOLhyphen"/>ſtion of Toleration, which is the work (as I am inform<g ref="char:EOLhyphen"/>ed) of another hand; onely for the preſent let mee tell you,</p>
+            <p n="1">1. That the Toleration pleaded for is not eccleſiaſti<g ref="char:EOLhyphen"/>call; for ſo it is reſolved by two of the Brethren in their anſwer to <hi>A. S.</hi> 1. <hi>The Minister ought—by Scriptures</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 65.</note> 
+               <hi>to evince the—falſhood of ſuch wayes.</hi> 2. <hi>Others that have an annointing of light and knowledge from God are bound to contribute the beſt of their endeavours to the ſame end.</hi> 3. <hi>The Magiſtrate ought to admoniſh the Miniſter, if careleſſe or forgetfull of his duty, that hee fulfill his miniſtery in that point alſo.</hi> 4. <hi>Members of a particular congregation, continuing obſtinate after means of conviction, and two or three admonitions, ought to be caſt out.</hi> 5. <hi>A Church infected ought to be admoniſhed by neighbour Churches, and if it continue ob<g ref="char:EOLhyphen"/>ſtinate,</hi>
+               <pb n="12" facs="tcp:113497:11"/> 
+               <hi>communion with it ought to be renounced:</hi> Thus, in effect, two of the brethren; which ſhewes the miſchiefe of hereſie in diſturbing the Churches peace: and this, to him that ſeriouſly conſiders it, will appear to be no ſmall miſchiefe.</p>
+            <p n="2">2. The Toleration ſo commended as the mother of peace, may be called civill, a non-ſuppreſſion of errours by the Magiſtrates laws or power: This is that great <hi>Di<g ref="char:EOLhyphen"/>ana</hi> ſo much magnified, ſo frequent in the mouthes of Sectaries. To diſpute the lawfulneſſe of it is (as I ſaid) beſides my purpoſe; I onely enquire,</p>
+            <p>Firſt, Would theſe men that ſo hotly defend it, grant that Toleration (if they had power in their hands) to others, which they deſire for themſelves? I doubt it. The <hi>Arians</hi> did ſometimes ſeem as earneſt enemies to <hi>perſecu<g ref="char:EOLhyphen"/>tion</hi> as theſe men; yet when they had authority on their ſide, they raiſed <hi>perſecution</hi> againſt the orthodox, more terrible then the heathen Emperors againſt the Chriſti<g ref="char:EOLhyphen"/>ans, which the Churches of the Eaſt moſt grievouſly <note n="b" place="margin">Binii tom. 1. conc. p. 686.</note> complained of. <hi>Athanaſius</hi> at large deſcribeth, and having ſpoken much of their inhumane and more then belluine cruelty againſt all ſexes, all ages, both living and dead, <note n="c" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Epiſt. ad Solitar.</note> concludes, that hee had ſaid leſſe then their inhumanity was, be<g ref="char:EOLhyphen"/>cauſe it exceeded all expreſſion. The Donatiſts did ordinarily plead for toleration, and ſeem<g ref="char:EOLhyphen"/>ed the moſt inveterate oenemies to all diſturbance for con<g ref="char:EOLhyphen"/>ſcience ſake; yet, when under the Apoſtate <hi>Julian</hi> they had gotten power, who can de<g ref="char:EOLhyphen"/>clare (<note n="d" place="margin">
+                  <hi>Quando</hi> Julianus <hi>vobis, Chriſti invidens paci, baſiacas reddidit, unitatis quae ſtra<g ref="char:EOLhyphen"/>ges à vobis ſactae ſint? Quis commemorare ſufficiat, &amp;c.</hi> Con. lit. Petil. l. 2. c. 82.</note> ſaith <hi>Auſtin)</hi> what havock they made of the orthodox? <note n="e" place="margin">
+                  <hi>Laccrati ſunt viri, tractae ſunt matronae, infantes necati, abacti ſunt partus, nulli li<g ref="char:EOLhyphen"/>cuit ſecurum eſſe in poſſeſſionibus ſuis, etiam itinera non poterant eſſe iutiſſima; terreban<g ref="char:EOLhyphen"/>tur omnes literis eorum qui ſe Duces ſancto<g ref="char:EOLhyphen"/>rum jactabant,</hi> Optat. cont. Parm. l. 2. 3.</note> All Africa was filled with bloud and deſolation; men were rent, ma<g ref="char:EOLhyphen"/>trons dragg'd, infants ſlaughtered, women with childe miſcarried, none were ſecure in their houſes, the wayes were not ſafe for travel<g ref="char:EOLhyphen"/>ers;
+<pb n="13" facs="tcp:113497:11"/> the letters of them that boaſted to be the Cap<g ref="char:EOLhyphen"/>tains of the <hi>ſaints</hi> were terrible to all. Are our men led by another ſpirit? Sure I am, that one of them, that with moſt earneſtneſſe, or impudence pleads for tolerati<g ref="char:EOLhyphen"/>on, was lately of another minde in the caſe of the Fami<g ref="char:EOLhyphen"/>liſts and Antinomians in new-England.</p>
+            <p>Secondly, Would ſuch toleration conduce to the e<g ref="char:EOLhyphen"/>ſtabliſhing of peace in the Common-wealth? Hath it e<g ref="char:EOLhyphen"/>ver done it? Poſſible it is, that the equality of powers may perſwade each party for a ſeaſon to ſuppreſſe their inward rancor; can toleration take it away, ſo that it ſhall not break out upon ſenſible advantages by the in<g ref="char:EOLhyphen"/>creaſe of ſtrength? Let the experience of former ages, and preſent times teach this. What peace was there in the Ro<g ref="char:EOLhyphen"/>man Empire upon the toleration of the <hi>Donatiſts?</hi> 
+               <note n="f" place="margin">Optat. l. 2. 3.</note> 
+               <hi>Op<g ref="char:EOLhyphen"/>tatus,</hi> 
+               <note n="g" place="margin">Aug. con. lit. Petil. l. 2.</note> 
+               <hi>Auguſtine,</hi> in the places before alledged, declare, that all places were filled with confuſion; the <hi>Circumcel<g ref="char:EOLhyphen"/>liones,</hi> or <hi>furious Donatiſts,</hi> not waiting for the ſignall of a law to give commiſſion, ſet the world on fire; <hi>Macari<g ref="char:EOLhyphen"/>us,</hi> and others with the forces of the Empire, were but ſuf<g ref="char:EOLhyphen"/>ficient to quench the burning. What peace had <hi>Germany</hi> upon the edicts of <hi>Charles the fifth?</hi> The <hi>Smalcaldian</hi> warre, deſcribed by <hi>Sleidan,</hi> demonſtrates, that they yeelded onely a time of breathing, that each party might increaſe in ſtrength, and gain advantages, and then fight to in<g ref="char:EOLhyphen"/>ternecion. Was it not ſo in <hi>France?</hi> Will a toleration ſatisfie hereticks, if they have power in their hands? It did not content the Iriſh Papiſts, witneſſe the bloud of 150000 <hi>Protestants</hi> ſhed upon the firſt advantage, and theſe unnaturall warres ſo long continued. Errour may tolerate errour, <hi>ſaevis inter ſe convenit urſis:</hi> but can dark<g ref="char:EOLhyphen"/>neſſe agree with light? or wolves with ſheep? <hi>Tertullian</hi> obſerves concerning hereticks of old, <note n="h" place="margin">
+                  <hi>Pacem cum omnibus miſcent; nihil enim in<g ref="char:EOLhyphen"/>tereſt illis, licèt diverſa tractantibus, dum ad unius veritatis expugnationem conſpirent,</hi> De praeſcript. cont. Haeret. c. 41.</note> They agreed well enough one with another; for though they differed in pri<g ref="char:EOLhyphen"/>vate opinions, yet they joyned in one in the oppoſing of truth:
+<pb n="14" facs="tcp:113497:12"/> 
+               <hi>Herod</hi> and <hi>Pilate</hi> may be made friends againſt Chriſt. <hi>A<g ref="char:EOLhyphen"/>thanaſius</hi> relates concerning the <hi>Arians,</hi> 
+               <note n="i" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Epiſt. ad Solita.</note> They did not trouble other hereſies, their younger ſiſters, in blaſpheming Chriſt; their ma<g ref="char:EOLhyphen"/>lice was inveterate againſt the or<g ref="char:EOLhyphen"/>thodox. <hi>Dominicans, Franciſcans, Jeſuites</hi> have their pri<g ref="char:EOLhyphen"/>vate differences, and yet agree to live together; but what ſafety is there for Proteſtants amongſt them? If we finde not the miſchiefe of our errours in this point, if Holland doth not, let them thank the Spaniſh arms, and wee the common enemy, and both, under God, the inconſide<g ref="char:EOLhyphen"/>rable number and weakneſſe of the heterodox. <note n="k" place="margin">
+                  <hi>Facitis ubi potestis, ubi non facitis non potestis, ſive legum, ſive invidiae timore, ſi<g ref="char:EOLhyphen"/>ve reſiſtentium multitudine,</hi> Auguſt. cont. Petil lib. 2. cap. 83.</note> You perſecute (ſaith <hi>Auſtin of the Do<g ref="char:EOLhyphen"/>natiſts)</hi> where you are able; where you perſecute not, you are not able to doe it, reſtrained by the fear of lawes, or envie, or the multitude making reſiſtance. I have been long upon this point; but I will conclude it with that ſolemne embaſſie which the orthodox Fathers, aſſembled in councell at <hi>Sirmium,</hi> ſent to the Emperour <hi>Constantius:</hi> I have inſiſted the longer, <note n="l" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Athan. de Syn. Arim. &amp; Seleuc.</note> that it might appear to all, that the toleration of errour is not a way to peace, as ſome men pretend, but to diſorder and confuſion: And yet I am not an enemy to peace, but a friend to truth, and holineſs, without which no man ſhall ſee God.</p>
+            <p>The third thing that hereſies eat up is <hi>godlineſſe;</hi> they devour holineſſe, that is, the power of it: thus in the verſe before my Text, <hi>They will increaſe to more ungodlineſſe.</hi> Thus the Apoſtles, <hi>Peter,</hi> ch. 2. 2. <hi>Jude,</hi> v. 8. deſcribe the hereticks of their time: you may reade the places at your leaſure. Thus <hi>Paul</hi> informes the <hi>Romans,</hi> that <hi>they that cauſe diviſions, cauſe ſcandals, and ſerve not the Lord</hi> 
+               <note place="margin">Rom. 16. 18.</note>
+               <pb n="15" facs="tcp:113497:12"/> 
+               <hi>Jeſus Chriſt, but their own bellies.</hi> An erroneous hereticall head, and an upright pions heart are incompatible; a good conſcience, and true faith, like <hi>Hippocrates</hi> twins, live and die together. <note n="m" place="margin">Haereſ. 26. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Lo<g ref="char:EOLhyphen"/>cus inſignis.</note> 
+               <hi>Epiphanius</hi> obſerves concerning the Gnoſticks of old, That they did not onely pervert the judgements of their proſelytes, but brought their bodies and ſoules into ſlavery of fornication, un<g ref="char:EOLhyphen"/>cleanneſſe, and ſuch like monſtrous abo<g ref="char:EOLhyphen"/>minations. But, <hi>manum de tabula,</hi> I forbear: It would make a volume to relate the obſervations of him and o<g ref="char:EOLhyphen"/>ther Ancients in this particular. Our Apoſtle, 1 <hi>Tim.</hi> 4. 1. ſaith, <hi>The Spirit ſpeaks expreſly, that in the last times men ſhall depart from the faith—&amp;c.</hi> and 2 Tim. 3. 1. ſpeaks as expreſly, that <hi>the last times ſhall be dangerous</hi> for hor<g ref="char:EOLhyphen"/>rible wickedneſſes,—men <hi>ſhall have a form of godlineſſe, and deny the power of it:</hi> It may be ſo with hereticks, they may have a faire out-ſide; but if you look for upright<g ref="char:EOLhyphen"/>neſſe, ſelf-deniall, righteouſneſſe, peace, joy in the holy Ghoſt, <hi>in which the kingdome of God conſiſts,</hi> you ſhall finde none of theſe; they have a form of godlineſſe, but deny the power of it. This <note n="n" place="margin">Lib. 2. tom. 1. Haer. 47. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Epipha<g ref="char:EOLhyphen"/>nius</hi> notes concerning the Encra<g ref="char:EOLhyphen"/>titae, They made oſtentation of continence, and yet converſed a<g ref="char:EOLhyphen"/>mongſt women even unto ſcandall; they were not indeed ſuch as they deſired to be accounted. O, what a full teſtimony is given to this truth by that generall a<g ref="char:EOLhyphen"/>poſtacie from godlineſſe to open profaneneſſe of many a<g ref="char:EOLhyphen"/>mongſt our ſelves ſince the unreſtrained inundation of our errours! And this comes to paſſe (for I touch upon the cauſe <hi>in tranſitu,)</hi>
+            </p>
+            <p n="1">1. Partly, becauſe that time which might be better im<g ref="char:EOLhyphen"/>ployed in the examination of the conſcience, is laid out in the examination of opinions; all the care is taken up about the notions of the brain, which ought to have been
+<pb n="16" facs="tcp:113497:13"/> intended to the bettering of the heart: As in children that have the <hi>rickats,</hi> their heads ſwell and grow bigge, but their bodies grow crooked, their breſts narrow, their inferiour parts feeble, and pine away: ſo perſons infe<g ref="char:EOLhyphen"/>cted with errours (for errours are the <hi>rickats</hi> of children in underſtanding) may perhaps have great heads, and be ſomething for matter of diſpute; but their hearts are crooked, their affections to goodneſſe ſtraightned, them<g ref="char:EOLhyphen"/>ſelves made ſo weak, as not to be able to goe in the paths of holineſſe.</p>
+            <p n="2">2. Partly becauſe in times of ſuch differences, men are for the moſt part had in eſteeme, not according to their godlineſſe, but their faction: Enquiry is not made con<g ref="char:EOLhyphen"/>cerning the preciſeneſſe of walking, and blameleſneſſe of converſation, but concerning opinion; not, How lives? but, What holds ſuch, or ſuch a man? As <note n="o" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</note> 
+               <hi>Athanaſius</hi> concerning the Arians to their follow<g ref="char:EOLhyphen"/>ers: Oppoſe Chriſt, and take no care to thy manners, thy opinion ſufficeth to thy commendation. And <note n="p" place="margin">
+                  <hi>Haec omnia vultis nullius eſſe mo<g ref="char:EOLhyphen"/>menti: at ſi tibi conſenſerit, quem ſe<g ref="char:EOLhyphen"/>ducis, unus conſenſus &amp; manus tuae porrectio, &amp; pauca verba jam tibi Chriſtianum faciunt de Chriſtiano, &amp; ille vobis videbitur Christianus qui quod vultis fecerit, non quem fides ad<g ref="char:EOLhyphen"/>duxerit,</hi> Optat. l. 3. cont. Parm.</note> 
+               <hi>Optatus</hi> a<g ref="char:EOLhyphen"/>gainſt the Donatiſts, declares their ſtrange partiality, All were unto them Pagans, that were not of their way of ſeparation; but if any one conſented to them, and became of their way, hee was preſently a Chriſtian, though hee knew not what belonged to Chriſtianity. O that it was not ſo amongſt our ſelves; that not faction, but faith was the bond of our affections; not ſiding with parties, but ſerving of God the compaſſe of our Chriſtian love: certainly opinions would not ſo much thrive, nor god<g ref="char:EOLhyphen"/>lineſſe ſo much decay. And ſo much of the ſecond thing which was propoſed, What it is which hereſies, erroneous opinions devour. Now of the third, Why, or How it comes to paſſe that they thus ſpread and devour, &amp;c.</p>
+            <p>The ſpreading and prevailing of hereſies may be a<g ref="char:EOLhyphen"/>ſcribed partly to the <hi>ſubtilty</hi> and <hi>activity</hi> of ſeducers, part<g ref="char:EOLhyphen"/>ly
+<pb n="17" facs="tcp:113497:13"/> to the <hi>curioſity</hi> and <hi>ſimplicity</hi> of the ſeduced; partly to the <hi>juſtice of God,</hi> for the <hi>manifeſtation</hi> of thoſe that are <hi>ſincere,</hi> and the <hi>puniſhment</hi> of thoſe that <hi>received not the truth in the love of it:</hi> Of theſe in order.</p>
+            <p>Firſt, The prevailing of hereſies may be aſcribed to the <hi>ſubtilty</hi> of ſeducers. Seducers are a ſubtill generation, and this ſubtilty it is to which the Apoſtle aſcribes their great ſucceſſe; <hi>Epheſ.</hi> 4. 14. <hi>Children are toſſed to and fro, and carried about with every winde of doctrine through the ſleight of men, and cunning craftineſſe, whereby they lie in wait to deceive.</hi> The Apoſtle in three words expreſſeth their deceitfulneſſe: 1. <hi>ſleight,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they are cunning game<g ref="char:EOLhyphen"/>ſters, know how to cog a die, and pack the cards, and <note n="q" place="margin">Zanch. in loc.</note> pervert Scripture to their ſiniſter purpoſes: 2. <hi>Cunning craftineſſe,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they turn every ſtone, watch all ad<g ref="char:EOLhyphen"/>vantages: 3. <hi>Lying in wait to deceive,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they have all the arts of couzenage; They <hi>bring in damnable hereſies privily,</hi> ſaith <hi>Peter: I am afraid,</hi> (ſaith S. <hi>Paul)</hi> 
+               <note place="margin">2 Pet. 2. 1.</note> 
+               <hi>lest, as the Serpent beguiled Eve through his ſubtilty, ſo</hi> 
+               <note place="margin">2 Cor. 11.</note> 
+               <hi>your mindes ſhould be corrupted from the ſimplicity that is in Chriſt.</hi> Satan arms his inſtruments with his own arts, fraud, and couzenage; and by theſe introduceth errours, and cheateth men of faith, peace, piety. <note n="r" place="margin">
+                  <hi>Vos eſtis aucupes, &amp; illi aut illa ſunt aves. Illi vos aucupi ſimiles dico, qui poſt diſceſſum noctis, ante lucis adventum—aridam arbo<g ref="char:EOLhyphen"/>rem nullis radicibus fultam multiplici fraude componit, cui adulterinos inſerit ramos, &amp; quae ſuas jamdudum ſucciſa perdiderat, alie<g ref="char:EOLhyphen"/>nas accipit frondes,—&amp;c.</hi> locus inſignis.—Cont. Parmen. l. 6.</note> 
+               <hi>Optatus</hi> obſerved this of old in the Donatiſts, whom he compares to fowlers, that with exacteſt cunning and art inſnare the birds. And <note n="ſ" place="margin">Lib. 1. Ep. 102.</note> 
+               <hi>Iſidore Peleuſiota</hi> compares hereticks to fiſhermen, that conveigh their deadly hooks in the moſt pleaſing baits. The Scriptures and Ancients have been large in obſerving and deſcribing thoſe impoſtures, by which they cheat men of truth, and propagate errours; but it would be a work too long for this time to declare them all: I ſhall by your favour name ſome of the principall of them, becauſe they are practiſed amongſt our ſelves by ſuch as <hi>draw diſciples after them,</hi> who, as they doe but rake
+<pb n="18" facs="tcp:113497:14"/> up old buried errours under the notion of new light, new truths; ſo they walk in the ſame ſteps with their forefathers.</p>
+            <p>Firſt, They uſe ſophiſticall arguments, <hi>argumenta tortu<g ref="char:EOLhyphen"/>oſa,</hi> knotty and crooked queſtions, by which they puzzle and inſnare the ſimple: of this the Apoſtle gives warn<g ref="char:EOLhyphen"/>ing, <hi>Take heed that no man deceive you,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e.</hi> make a prey of you, <hi>through Philoſophy or vain deceit. Tertullian</hi> againſt <hi>Hermogenes</hi> obſerves, that <note place="margin">
+                  <hi>Artificem ſtruendi &amp; deſtruendi ver ſipel<g ref="char:EOLhyphen"/>lem, in ſententiis coactam, in conjecturis du<g ref="char:EOLhyphen"/>ram, in argumentis operariam, moleſtam etiam ſibi ipſi, omnia retractantem, nè quid omnino tractaverit,</hi> De praeſcript. adv. Haer. c. 7.</note> Philoſophers were the Patriarchs of hereticks; and Sophiſtry, the great artifice of building and deſtroying, &amp;c. their maine engine. Seducers have not learned to caſt away <hi>reaſonings, and every high thing that exalteth it ſelf againſt the knowledge of God:</hi> and whiles, with the ancient hereticks, and late Socinians, they meaſure truths with the line of their own intellect, and beleeve no more then they can comprehend, they <hi>make ſhipwrack of faith,</hi> and drown others in their own deſtruction. How many were of old made to ſtagger in that fundamentall point of the eternall Sonſhip of Jeſus Chriſt, by the curious inquiries of the Arians, recorded by <hi>Epiphanius,</hi> in his Treatiſe a<g ref="char:EOLhyphen"/>gainſt that hereſie, which I will <note place="margin">Haereſ. 69. 15. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> not Engliſh, that I may not be a ſnare in this ſcepticall age? How many were taken in that ſenſeleſſe notion, becauſe it was new, and <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<hi>—&amp;c.</hi> Ibid. 16.</note> they underſtood it not, Hee is a creature, but not as one of the o<g ref="char:EOLhyphen"/>ther creatures; a work, but not as one of the works; and begotten, but not as others that are begotten: that, denying him like other things begotten, they may deny his naturall generation; de<g ref="char:EOLhyphen"/>nying him a creature as other creatures are, they may aſſert him to be a creature? So farre <hi>Epiphanius.</hi> Why doe you juggle, in ſaying, hee is a creature,
+<pb n="19" facs="tcp:113497:14"/> not as one of the creatures; hee ſuffered without paſſion? as if a man ſhould ſpeak without ſpeak<g ref="char:EOLhyphen"/>ing, or underſtand without under<g ref="char:EOLhyphen"/>ſtanding, ſaith <note n="t" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Athan. contr. Arian. orat. 3. tom. 1. &amp; tom. 2. <hi>Quòd Chriſtus paſſus in Deitate.</hi>
+               </note> another Father concerning the ſame and other he<g ref="char:EOLhyphen"/>reticks. <note n="u" place="margin">
+                  <hi>Multam curam gerunt fucare phaleris ver<g ref="char:EOLhyphen"/>borum, &amp; verſutiis ſyllogiſmorum,</hi> Bern. in Cant. ſer. 41.</note> This hath been their conſtant indeavour, with pretences of words, and ſophiſtry of argu<g ref="char:EOLhyphen"/>ments, to colour and paint their horrid opinions. This is that which <hi>Cyril</hi> calls <note n="x" place="margin">De ador. in ſpir. &amp; verit. l. 8.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, multiva<g ref="char:EOLhyphen"/>rious impoſtures, <note n="y" place="margin">In Hoſ. 2.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the in<g ref="char:EOLhyphen"/>ventions of many-times-pleated ſenſes, equivocations, amphibologies, the ſtrength and garriſons of hereticks, unto which they retreat, being purſued; out of which they iſſue, to ſpoile and plunder the Church of faith, peace, and godlineſſe. And thus much of the firſt branch of that <hi>ſubtilty</hi> of which hereticks make uſe to ſpread ernours.</p>
+            <p>Secondly, They uſe new and ſtrange expreſſions, ex<g ref="char:EOLhyphen"/>preſſions not to be underſtood but by their own diſciples. Theſe the Apoſtle (according to <hi>Chryſoſtome</hi> and other of the Ancients) calls <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, new language; and a<g ref="char:EOLhyphen"/>gainſt theſe arms <hi>Timothy,</hi> commanding him to <hi>keep the</hi> 
+               <note place="margin">2 Tim. 2. 16.</note> 
+               <hi>form of ſound words which hee had heard of him:</hi> This hath <note place="margin">2 Tim. 1. 13.</note> been of eſpeciall uſe to hereticks in the primitive Church, and of later times; Thus <note n="z" place="margin">Contr. Ari<g ref="char:EOLhyphen"/>an. de Synod. <hi>Confuſis permixtiſque verbis veritatem fre<g ref="char:EOLhyphen"/>quentiſſimè eludunt, &amp; incautorum aures communium vocabulorum ſono capiunt.</hi>
+               </note> 
+               <hi>Hilary</hi> of the Arians in his time; That by their indiſtinct and confuſed expreſſions they eluded truth, and enſnared their unwary auditours by the ambiguity of their phraſes. Thus <note n="a" place="margin">
+                  <hi>Sic verba temperant, ſic ordinem vertunt, &amp; ambiguae quaque concinnant, ut &amp; no<g ref="char:EOLhyphen"/>ſtrum, &amp; adverſariorum confeſſionem tene<g ref="char:EOLhyphen"/>ant, ut aliter haereticus, aliter catholicus au<g ref="char:EOLhyphen"/>diat,</hi> Epiſt. 65.</note> 
+               <hi>Hicrome</hi> concerning the Origeniſts, They ſo temper their words, pervert their order, mingle ambiguities, that in the ſame ſentence they utter the truth and errouer; their followers underſtand one thing, and ſtrangers an<g ref="char:EOLhyphen"/>other.
+<pb n="20" facs="tcp:113497:15"/> Thus they prevail with many, like <hi>Gypſies,</hi> cant<g ref="char:EOLhyphen"/>ing in their mother-tongue; though their words may be underſtood, yet not their meaning. And this practice is notably deſcribed by <hi>Calvin</hi> againſt the Libertines. But beſides this, that they uſe old words in new ſenſes, they have another practice, to coin new words, new expreſ<g ref="char:EOLhyphen"/>ſions of their own, which none can underſtand, ſimple ones admire: This the Apoſtle points at, 2 <hi>Pet.</hi> 2. 18. <hi>They ſpeak great ſwelling words of vanity,</hi> and under theſe high ſtreines, and ſublime notions, introduce ſome old, baſe, often confuted hereſies; which, were they in plain Engliſh expreſſed, would be abhorred. Thus <note n="b" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Haer. 31.</note> 
+               <hi>Epiphae<g ref="char:EOLhyphen"/>nius</hi> aſſures us concerning the Valenti<g ref="char:EOLhyphen"/>nians, that they introduced the old heathen fables as matters of faith, only ſhadowed them under ſome new expreſ<g ref="char:EOLhyphen"/>ſions of their owne; and of the Gno<g ref="char:EOLhyphen"/>ſticks, that they in like manner deluded their followers. Thus <note n="c" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Haereſ. 26. 1. Dial. 1.</note> 
+               <hi>Cyril</hi> of the Neſtorians in his time, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, This ſpeech is not to be under<g ref="char:EOLhyphen"/>ſtood. I ſtand not to parallel this with the practices amongſt our ſelves, but paſſe from it with <note n="d" place="margin">
+                  <hi>Eadem nunc in veteri, &amp; nova hae<g ref="char:EOLhyphen"/>reſi conſuetudo ſervatur, ut aliud populi audiant, aliud praedicent ſa<g ref="char:EOLhyphen"/>cerdotes,</hi> Epiſt. 61.</note> 
+               <hi>Hieroms</hi> obſerva<g ref="char:EOLhyphen"/>tion, The ſame cuſtome is obſerved a<g ref="char:EOLhyphen"/>mongſt hereticks of former, and of our own times; the old Serpent doth act his old wiles over again; the Stage is new, the Tragedy the ſame; errours diſperſed, faith, peace, and godlineſſe ſupplanted by the ſame engines amongſt us as in former times.</p>
+            <p>Thirdly, They uſe <hi>faire pretences,</hi> and <hi>glorious ſpeeches,</hi> as the Apoſtle obſerves, <hi>By good words and faire ſpeeches</hi> 
+               <note place="margin">Rom. 16. 18.</note> 
+               <hi>they deceive the hearts of the ſimple:</hi> And <hi>Peter, Through</hi> 
+               <note place="margin">2 Pet. 2. 3.</note> 
+               <hi>covetouſneſſe ſhall they with fained words</hi> (<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for<g ref="char:EOLhyphen"/>ged and plaiſtered ſpeeches) <hi>make merchandiſe of you.</hi> This is an uſuall ſhift, they parget over the nakedneſſe and
+<pb n="21" facs="tcp:113497:15"/> deformity of their opinions, repreſenting ſometimes <hi>them</hi> as the wayes of God, ſometimes <hi>themſelves</hi> as the men of God; and thus ſimple people <hi>(Ixion</hi> like) <hi>pro Junone nubem,</hi> imbrace appearances for verities, errours for truth.</p>
+            <p n="1">1. They repreſent their opinions as the wayes of God, the ſecrets and myſteries of Chriſt, (but <hi>John</hi> calls them <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the profound deep things of Satan:)</hi> and <note place="margin">Rev. 2. 24.</note> thus they are <hi>as a ſnare on Mizpah, and a net ſpread upon mount Tabor.</hi> Saint <hi>Paul</hi> obſerves, that <hi>the worſhipping of</hi> 
+               <note place="margin">Col. 2. 18. cum 23.</note> 
+               <hi>Angels,</hi> and ſuch other kind of monkery, <hi>Touch not, taste not, handle not,</hi> were all perſwaded under ſuch faire pre<g ref="char:EOLhyphen"/>tences; they were doctrines of humility, doctrines of mortification, &amp;c. But in the mean time, theſe falſe preachers, pretenders to humility, were <hi>vainly puft up in their fleſhly minde,</hi> laid hold on Angels, but <hi>held not the head,</hi> &amp;c. In the 17<hi rend="sup">th</hi> of the <hi>Revelation</hi> the whore hath in <hi>her hand a golden cup full of abominations and filthineſſe;</hi> the cup is of gold, but the potion is of the rankeſt poi<g ref="char:EOLhyphen"/>ſon: <hi>Act.</hi> 15. <hi>Circumciſion, and obſervation of the law</hi> is <note place="margin">Gal. 5.</note> pretended the way to ſalvation, though in truth it <hi>cut off from Christ</hi> in the notion under which it was obtru<g ref="char:EOLhyphen"/>ded; and, at beſt, did nothing availe unto that purpoſe which was pretended: This hath been the practice of hereticks, as in the Apoſtles times, ſo in after ages. This <hi rend="sup">e</hi> 
+               <hi>Salvian</hi> obſerves concerning the Arians, and in gene<g ref="char:EOLhyphen"/>rall, <note place="margin">De guber. Dei lib. 5.</note> all hereticks; but his paſſage is too long to be tranſcribed. Thus alſo <note n="f" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Praefat. in Theſaur.</note> 
+               <hi>Cyril,</hi> As ſtrumpets paint their faces, and adorne their bodies in great<g ref="char:EOLhyphen"/>eſt bravery, to hide the filthi<g ref="char:EOLhyphen"/>neſſe of their practices, and in<g ref="char:EOLhyphen"/>ſnare by their neatneſſe: ſo hereticks ſhadow their deſtru<g ref="char:EOLhyphen"/>ctive opinions with the beauti<g ref="char:EOLhyphen"/>full veile of godlineſſe, and their errours with the flowers of truth.
+<pb n="22" facs="tcp:113497:16"/>
+               <note n="g" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Cyril. Epiſt. ad Valerian.</note> They are in this like our Apothe<g ref="char:EOLhyphen"/>caries, they gild their pils, and make their potions ſweet, they make them pleaſant to the eye, and delightfull to the taſte; and yet they containe ſuch a medicine, as (not being immediately caſt out) will give the patient ſuch a purge as will clear him of faith, and peaceableneſſe, and prevent for the future all danger of ſurfeting from the power of godlineſſe. It is no new thing, that opinions of no value, if not damnable, are vended, and prevaile under the notions of <hi>free grace,</hi> or <hi>Chriſtian liberty, Chriſt exalted, the kingdome of Chriſt, the Church way,</hi> and the like commendations: no way is more effectuall to ingage imbracement. <note n="h" place="margin">Plutarch. in vit.</note> 
+               <hi>Numa Pompilius</hi> pre<g ref="char:EOLhyphen"/>tends the teaching of the Nymph <hi>Aegeria</hi> for his new religion; and <note n="i" place="margin">Turk. Hiſt.</note> 
+               <hi>Mahomet,</hi> that grand impoſtor, if you will beleeve him, learned his Alcoran from the Angel <hi>Gabriel.</hi> The <note n="k" place="margin">Athan. qu. ad Antio. 46.</note> Divell was the firſt that ever mentioned God upon earth, and that in his temptation, when hee was acting againſt God: And ſhall it ſeem ſtrange, that there are amongſt us ſome, not Chri<g ref="char:EOLhyphen"/>ſtians, but ſellers of Chriſt, vain talk<g ref="char:EOLhyphen"/>ers, ſoule-deceivers, that in treachery pretend the name of Chriſt; that ſpeak of Chriſt, not that they may preach Chriſt, but that by their preaching they may make Chriſt of none effect, as was of old the com<g ref="char:EOLhyphen"/>plaint of holy <note n="l" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ad Tral<g ref="char:EOLhyphen"/>lenſ.</note> 
+               <hi>Ignatius?</hi> It is uſuall with mounte<g ref="char:EOLhyphen"/>banks to proclaim the vertues of their oyles, ſalves, re<g ref="char:EOLhyphen"/>ceipts, &amp;c. multitudes are drawne together, and fools buy. It is the practice of falſe teachers, by crying up the holineſſe and excellency of their doctrine, to cauſe many to flock together, and to <hi>deceive the hearts of the ſimple.</hi>
+            </p>
+            <p n="2">2. They repreſent <hi>themſelves, teachers, followers, all,</hi> un<g ref="char:EOLhyphen"/>der the notion of the <hi>moſt godly, holy, humble, ſaints, men as precious as any the earth heares, as unbiaſed as any at any</hi>
+               <pb n="23" facs="tcp:113497:16"/> 
+               <hi>time likely to be on the face of the earth;</hi> a ſtrong induce<g ref="char:EOLhyphen"/>ment (eſpecially if there be any ſhew of holineſſe in their converſation) to perſwade ſimple and well-meaning men into an approbation of their opinions. By ſuch decei<g ref="char:EOLhyphen"/>vable pretences the Phariſees got ſuch intereſt in the hearts of the people, that they were quickly credited in whatever they ſpake, though againſt King, or Prieſt, as ſaith <note n="m" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Antiq Jud. l. 3.</note> 
+               <hi>Joſephus.</hi> In the dayes of the Apoſtles there were ſome that <note n="n" place="margin">Rev. 2. 2.</note> 
+               <hi>ſaid they were Jewes, and were not,</hi> but upon triall were found <hi>liars.</hi> The <hi>ministers of Satan</hi> were transformed <hi>as the ministers of righteouſneſſe;</hi> and how they prevailed, and what their pretences were may be conjectured by the great paines which the Apoſtle takes to vindicate himſelfe and his miniſtery from their aſper<g ref="char:EOLhyphen"/>ſions, 1 <hi>Cor.</hi> 9. 2 <hi>Cor.</hi> 11. They were not inferiour to the chiefe Apoſtles, would have no pay, (Doe you not heare the language of our Sectaries?) they would preach freely, would not be burdenſome, &amp;c. Were not theſe ſingular men? Doubtleſſe they did not want followers amongſt ſuch as would ſerve God with that which coſt them nothing: But the Apoſtle aſſures us, they <hi>were deceitfull workers, and their end would be accor<g ref="char:EOLhyphen"/>ding to their works.</hi> Such as theſe of old were the Do<g ref="char:EOLhyphen"/>natiſts, of whom <note n="o" place="margin">Contr. Parmen. <hi>Pelle ovinâ contegi vis, ut, ſi fieri poteſt, priùs te ovis mor<g ref="char:EOLhyphen"/>dentem ſentiat, quàm praeſentiat venien<g ref="char:EOLhyphen"/>tem?</hi> Lib. 1.</note> 
+               <hi>Optatus,</hi> They covered themſelves in ſheeps cloath<g ref="char:EOLhyphen"/>ing, they were not diſcerned to be wolves, till their fangs were felt. No age hath afforded hereticks whoſe ring-leaders have not pretended to extraordinary godlineſſe. It is well known to thoſe that are verſed in the writings of the Ancients, what is left recorded concerning <hi>Apolli<g ref="char:EOLhyphen"/>naris, Photinus, Neſtorius,</hi> and others, the ſubſtance of which you may finde in <note n="p" place="margin">Cont. haereſ. c. 16.</note> 
+               <hi>Vincentius Lirinenſis;</hi> what of <note n="q" place="margin">Voſſ. Hiſt. Pela. l. 1. c. 3.</note> 
+               <hi>Pelagius,</hi> what of <note n="r" place="margin">Orat. in obit. ante opera Ar<g ref="char:EOLhyphen"/>min.</note> 
+               <hi>Arminius</hi> by <hi>Bertixs,</hi> what of <hi>Socinus:</hi> but, to paſſe over all theſe in ſilence, I ſhall inſtance onely in <hi>Arius,</hi> that grand impugner of the Deity of Chriſt, and impudent boaſter; out of whoſe
+<pb n="24" facs="tcp:113497:17"/> Thaleia <note n="ſ" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Orat. 2. cont. Arian.</note> 
+               <hi>Athanaſius</hi> relates theſe vaine boaſtings: I have received my doctrine from the elect of God, men that knew God, holy men of God, ſuch as knew how to divide the word of God aright, that had received the annointing of the ſpirit; of theſe I have received, in their ſteps I have walked, and for this truth have ſuffered many things. Surely, this is a plauſible in<g ref="char:EOLhyphen"/>ducement; words are eſteemed according to the eſtimate of the ſpeaker. <note n="t" place="margin">
+                  <hi>Solent isti miriones etiam de quibuſdam perſonis ab haereſi captis, aedificari in rui<g ref="char:EOLhyphen"/>nam: quare illa vel ille fideliſſimi, pru<g ref="char:EOLhyphen"/>dentiſſimi, &amp; uſitatiſſimi in Eccleſia in il<g ref="char:EOLhyphen"/>lam partem tranſierunt,</hi> De Praeſcript. contr. Haeret. cap. 3.</note> 
+               <hi>Tertullian</hi> obſerves it of certain wonderers, that they were edified into errour by the ex<g ref="char:EOLhyphen"/>ample of others, men of name and note for wiſdome, knowledge, uſefulneſſe in the Church, that had fallen into hereſie: If this or that were not the truth, the way of God; how comes it to paſſe, that hee, or ſhee, ſuch a man, and ſuch a man of ſuch eminent parts, gifts, profeſſion, ſhould be ſo miſ-led? But, ſhould we judge of faith by perſons? or ſhould wee not rather judge of perſons by faith? 'Tis poſſible for <hi>Nicolas</hi> to become, not onely an heretick, but a ring-leader of a ſect; 'tis poſſible for one to come, and ſay, <hi>I am Chriſt;</hi> 'tis poſſible for <hi>Simon Magus</hi> to profeſſe himſelfe <hi>the great power of God,</hi> but ſhould all the city give heed to him? 'tis poſſible for <note n="u" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Epiphan. l. 2. tom. 1. contr. Cataphry.</note> 
+               <hi>Mon<g ref="char:EOLhyphen"/>tanus</hi> to proclaim himſelf no Angel, no Embaſſadour, but the Comforter himſelf; ſhould a <hi>Tertullian</hi> be ſedu<g ref="char:EOLhyphen"/>ced? 'Tis a great temptation, when men that fall into errour, are in name for godlineſſe: 'tis a greater, when men of ſtrict life (as in old times) fall into errour. If we will not be miſ-led, let us remember the Apoſtles charge; <hi>If wee;</hi> not one, but the Colledge of Apoſtles; not men, but if <hi>an Angel from heaven ſhall</hi>
+               <pb n="25" facs="tcp:113497:17"/> 
+               <hi>teach any other doctrine, let him be accurſed.</hi> Whatever their pretences be, <note n="x" place="margin">
+                  <hi>Diaboli filii ſunt, qui homines ab Eccleſia ſedu<g ref="char:EOLhyphen"/>cendo interfici<g ref="char:EOLhyphen"/>unt,</hi> Aug. cont. lit. Petil. lib. 2. c. 13.</note> they are of their father the Divell, who, by ſeducing men from the Church of Chriſt, deſtroy them. I have been the longer upon this point, becauſe it neerly concerns our ſelves, amongſt whom a party is riſen up that monopolizeth piety, pretendeth to tran<g ref="char:EOLhyphen"/>ſcendent holineſſe; under which ſhew many are miſ-led, many muzzled, as not willing to oppoſe againſt (as they call themſelves) the godly party.</p>
+            <p>Fourthly, They uſe <hi>vain-glorious boaſtings,</hi> proclaim<g ref="char:EOLhyphen"/>ing the excellency and eminency of their knowledge, and abilities above other men. The former fair ſpeeches were but groundleſſe bragges, their opinions and con<g ref="char:EOLhyphen"/>verſations are farre ſhort of (if not contrary to) that holineſſe they profeſſe; but in this that I now ſpeak of, their boaſting hath been notorious, as if with them wiſdome began to live, and ſhould die with them; as <hi>Maximilla</hi> the propheteſſe of the Montaniſts in <hi>Epi<g ref="char:EOLhyphen"/>phanius,</hi> 
+               <note n="y" place="margin">Haereſ. 47. Col. 2. 18.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. As the affecting of wiſdome <hi>above what is written,</hi> and a bold intruſion into things they have not ſeen, hath cauſed many to fall from the truth to errour; ſo the <hi>profeſſion of</hi> 
+               <note place="margin">1 Tim. 6. 21.</note> 
+               <hi>knowledge</hi> (as the Apoſtle) <hi>falſely ſo called,</hi> and the having of the gifts and perſons of men in admiration, hath <note place="margin">1 Cor. 4. 8.</note> drawne many to follow their pernicious wayes: <note n="z" place="margin">Vincent. Li<g ref="char:EOLhyphen"/>rinenſ.</note> 
+               <hi>Er<g ref="char:EOLhyphen"/>ror magistri tentatio diſcipuli;</hi> if the maſter falls, the ſcholar ſtumbles. Indeed, men of parts uſually broach errours, (the divell makes uſe of the Serpent, not of the Aſſe, in ſeducing into hereſie) as being the fitteſt inſtruments to ſtagger the Church. <hi>Corah, Dathan,</hi> and <hi>Abiram</hi> died not alone in their tranſgreſſion; they were Princes of the Congregation. But if any man ſhall become a <hi>Dogmatist,</hi> an aſſerter of ſtrange and new opinions, hee ſhall be cried up by his followers as a man of parts, that they may ſeem to be mad with reaſon. This conceit that they knew and taught ſomething which other men neither knew nor taught,
+<pb n="26" facs="tcp:113497:18"/> procured ſcholars to ſeducers of old, as ſaith <note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, De Trin. Dial. 2.</note> 
+               <hi>Cyril.</hi> The follow<g ref="char:EOLhyphen"/>ers of <hi>Baſilides</hi> in <note n="b" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Haereſ. 24.</note> 
+               <hi>Epiphanius</hi> pro<g ref="char:EOLhyphen"/>feſſed themſelves onely to be men, all others dogs and ſwine. <note n="c" place="margin">Hieron. in Hoſ. 5.</note> 
+               <hi>Semper ſe ſcire altiora jactitant, &amp; in Eccleſiae contumeliam debacchantur</hi> (they boaſt al<g ref="char:EOLhyphen"/>waies of their own ſublime and abſtruſe ſpeculations, in compariſon of which others are blind) is the obſervati<g ref="char:EOLhyphen"/>on of <hi>Hierome.</hi> I will conclude this with that of <note n="d" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Orat. 33.</note> 
+               <hi>Na<g ref="char:EOLhyphen"/>zianzene,</hi> concerning the boaſtings of <hi>Eunomius:</hi> Be it granted (ſaith hee) ſeeing you will have it ſo, that you are a ſublime man, and tran<g ref="char:EOLhyphen"/>ſcend ſublimity, a beholder of things that no man elſe ſees, an hearer of things which it is not lawfull to utter; after <hi>Elias,</hi> you have been rapt up in a fiery chariot; after <hi>Moſes,</hi> you have ſeen the face of God; after <hi>Paul,</hi> you have been ta<g ref="char:EOLhyphen"/>ken into the third heavens; but why forge you ſaints in one day, make them miniſters, inſpire them with learn<g ref="char:EOLhyphen"/>ing, &amp;c.? This is not peculiar to the Eunomians; I would we had not ſome amongſt our ſelves as vain-boaſt<g ref="char:EOLhyphen"/>ers, and pretenders to knowledge, that have, in their own conceit, more skill in the myſtery of Chriſt then the Apoſtles, with the old hereticks: <hi rend="sup">e</hi> 
+               <hi>Solent dicere, non</hi> 
+               <note place="margin">Tertul. de praeſcr. contr. haer. c. 22.</note> 
+               <hi>omnia Apostolos ſcîſſe,—non omnia omnibus tradidiſſe, in utro<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Chriſtum reprehenſioni ſubjicientes, &amp;c.</hi> The Apoſtles knew not all things, taught not all things to all men (as they ſay;) in both which they calumniate Chriſt. <note n="f" place="margin">
+                  <hi>Te fautores tui diſertiorem</hi> De<g ref="char:EOLhyphen"/>moſthene, <hi>acu<g ref="char:EOLhyphen"/>tiorem</hi> Chryſip<g ref="char:EOLhyphen"/>po, <hi>ſapientiorem</hi> Platone, <hi>con<g ref="char:EOLhyphen"/>tendunt, &amp;c.</hi> E<g ref="char:EOLhyphen"/>piſt. 61. ad Pammach.</note> The favourers of <hi>John of Jeruſalem</hi> were bold to aſſert, that he was more eloquent then <hi>Demoſthenes,</hi> acute then <hi>Chryſip<g ref="char:EOLhyphen"/>pus,</hi> wiſe then <hi>Plato,</hi> &amp;c. The Papiſts adorn ſome of their School-men, Doctors, with the titles <hi>Angelicall, Seraphi<g ref="char:EOLhyphen"/>call, Illuminate, Irrefragable, Reſolute, Subtile,</hi> and ſuch like. The <hi>Jeſuits</hi> prevaile mightily by their impudency in boaſting, as <note n="g" place="margin">De ſtratagem. Jeſuitarum.</note> 
+               <hi>Alphonſus de Vargas</hi> declares concerning
+<pb n="27" facs="tcp:113497:18"/> them: The Sectaries amongſt us, if they doe it not in i<g ref="char:EOLhyphen"/>mitation of ſuch worthy preſidents, yet walk in the ſame ſteps; their miſleaders are with them <hi>heavenly</hi> men, <hi>ſpi<g ref="char:EOLhyphen"/>rituall</hi> teachers, the preachers of <hi>Goſpel-truths, New Te<g ref="char:EOLhyphen"/>ſtament-ſpirits,</hi> men of admirable parts, though ſome of them but of late commenced from the Tailors ſhop-board, or the Coblers ſtall to the miniſtery; men of as great abi<g ref="char:EOLhyphen"/>lities as thoſe teachers of the law, of whom the Apoſtle, <hi>Not underſtanding what they ſay, nor whereof they affirme.</hi> But ſo much of this fourth point.</p>
+            <p>Fifthly, They uſe ſubtilty <hi>in concealing their opinions,</hi> ſave onely from their proſelites, to whom they diſcover them <hi>in part,</hi> and <hi>with a reſerve</hi> of changing upon fur<g ref="char:EOLhyphen"/>ther <hi>inquiry</hi> or <hi>more advantage.</hi> This was of old the pra<g ref="char:EOLhyphen"/>ctice of <hi>Baſilides</hi> in <note n="h" place="margin">Haereſ. 24. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Epiphanius,</hi> hee concealed his opinions from ſuch as were able to examine them, men that had <hi>their ſenſes exerciſed to diſcern between things that differ;</hi> but made them known to thoſe whom hee had ſeduced, unto whom alſo hee gave in charge, <note n="i" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Id. ibid.</note> That they ſhould conceale theſe things amongſt themſelves, and not reveal them ſaving to one of a thouſand, and two of ten thou<g ref="char:EOLhyphen"/>ſand: that they ſhould know all things, all men; but that no man ſhould know them, or what they hold. It was long before the <hi>Arians</hi> diſcovered their <hi>ma<g ref="char:EOLhyphen"/>lice</hi> againſt the Deity of the Lord Jeſus Chriſt; their <hi>quarrell</hi> (as they pretended) was onely againſt the word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <note n="k" place="margin">Epiſt. 61. ad Pammach.</note> 
+               <hi>Hierome</hi> relates, (I pray God others, from whom no requeſts or engagements can draw a modell of their opinions, <hi>nihil monstri alaut,</hi> be not hatching ſome hatefull monſter:) and when they had diſcovered it, they were all upon uncertainties, ever waiting for new light, <note n="l" place="margin">Hil. ad Con<g ref="char:EOLhyphen"/>ſtant.</note> 
+               <hi>Annuas atque monstruas fides decernimus,</hi> they had every yeer, every moneth a new confeſſion, as <hi>Hilary:</hi>
+               <pb n="28" facs="tcp:113497:19"/>
+               <note n="m" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, De Synod. Arim. &amp; Seleuc.</note> They had many and diverſe al<g ref="char:EOLhyphen"/>terations, being ready to change as often as they could obtaine any to hire them, any to hear them, any to lead them: they could change their opinions as often as they could get cuſtomers for new ones. Thus <note n="n" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Epiſt. 72.</note> 
+               <hi>Baſil</hi> aſſures us, that they did all things for their own profit and advantage, chan<g ref="char:EOLhyphen"/>ging, and rechanging, and profeſſing a liberty of future changing; a courſe moſt contrary to the truth of God, <hi>(Faith is but one)</hi> to the ſtabilitie in the truth required in beleevers, <hi>Coloſſ.</hi> 2. and the manner of the <hi>orthodox,</hi> who, though never ſo low and little eſteem<g ref="char:EOLhyphen"/>ed in the eyes of men, yet were alwayes the ſame, and conſented not to ſuch changes and alterations. As the <hi>Polypus</hi> hunts fiſhes, and takes them by the often changing of his colour; ſo <hi>hereticks</hi> hunt and take unſtable ſouls by the concealing of themſelves, and profeſſed unſetledneſſe in their tenents. Though much more might be ſaid of the <hi>ſubtilty</hi> of hereticks, in calumniating the truth, ſlandering the profeſſors of it, mingling truth with errour; yet let this ſuffice for the preſent.</p>
+            <p>The ſecond means by which hereticks divulge their errours, is their <hi>Induſtry</hi> or <hi>Diligence;</hi> they are <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not onely ſubtill, but induſtrious workers: As Sa<g ref="char:EOLhyphen"/>tan <hi>goeth up and downe like a roaring lion ſeeking whom hee</hi> 
+               <note place="margin">1 Pet. 5.</note> 
+               <hi>may devour;</hi> ſo theſe, with the <hi>Phariſees,</hi> would <hi>com<g ref="char:EOLhyphen"/>paſſe ſea and land to make one proſelyte, creep into houſes</hi> 
+               <note place="margin">Matth. 23.</note> 
+               <hi>to leade captive ſilly women:</hi> in this, like hunters, or fi<g ref="char:EOLhyphen"/>ſhers, whoſe labour is their pleaſure, if they can take their prey;</p>
+            <p>
+               <hi>Ut jugulent homines ſurgunt de nocte.—</hi>
+            </p>
+            <p>There is a ſtrange activity in theſe men for the ſpread<g ref="char:EOLhyphen"/>ing of errours: in men did I ſay? nay in women; the woman <hi>Jezebel taught and ſeduced the ſervants of God.</hi> It is the obſervation of <hi>Tertullian</hi> in his time, That
+<pb n="29" facs="tcp:113497:19"/> their women were audacious even to <note place="margin">
+                  <hi>Ipſae mulieres, quàm procaces ſunt, quae audeant docere, contendere, &amp; fortaſſe etiam tingere?</hi> De praeſcript. cap. 41. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Epiphan. de Pepuzian. haereſ. 49.</note> admiration, they dared to preach, to diſpute, yea poſſibly, to baptiſe. And this amongſt ſome of them, not by <hi>in<g ref="char:EOLhyphen"/>truſion,</hi> but by <hi>permiſſion</hi> and <hi>approbation;</hi> women were <hi>Biſhops,</hi> women <hi>Elders,</hi> women in all other offices. Satan ha<g ref="char:EOLhyphen"/>ving found the uſefulneſſe of that ſexe for ſeduction, upon all occaſions makes uſe of them. <hi>Apelles</hi> diſperſed <note place="margin">Tertull.</note> his hereſie by the help of a woman, <hi>Phylumene: Mon<g ref="char:EOLhyphen"/>tanus</hi> 
+               <note place="margin">Epiph. haer. 48.</note> diſperſeth his by the help of <hi>Priſcilla</hi> and <hi>Maxi<g ref="char:EOLhyphen"/>milla,</hi> two women: And have not wee made ſome pro<g ref="char:EOLhyphen"/>greſſe, and grown up to ſome height in this hereticall practice? Doe not women, whom the Apoſtle <hi>permits not to ſpeak in the Church, but to be in ſilence,</hi> (tranſgreſſing this Apoſtolicall precept, and forgetting the modeſty and weakneſſe of their ſexe) preſume to preach, and vent their braine-ſick fancies? But I paſſe over this ſhame. <hi>Optatus</hi> could not keep ſilence <note place="margin">
+                  <hi>De vestris ſilere quis poſſit? De illis quos aut factione, aut ſubtilitate, ut veſtros face<g ref="char:EOLhyphen"/>retis, ſeducere potuistis; non ſolùm moſculi, ſed etiam ſoeminae, de ovibus facti ſunt vulpes,—poſt quod ad vos delapſi ſunt, aut dilapſae, dolent alios ibi eſſe ubi nati ſunt, bene ſtantes in lapſus ſuos invitant, &amp;c.</hi> Cont. Parmen. l. 6. Vide.</note> concerning the activity of ſuch men and women, whom fraud or faction had adjoyned to the Do<g ref="char:EOLhyphen"/>natiſts, in ſeducing and perverting others into their own errours and ſchiſme. <hi>Athanaſius</hi> tels us what uſe the <hi>Arians</hi> made of women, <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Epiſt. ad Solitar. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Ibid.</note> to ingratiate them with Princes and great men, whoſe favour is moſt deſirable to them, as being moſt advantagious to their perſons and wayes. But enough of this. Experience teacheth, that <hi>when men ſleep, the enemie comes, and ſowes tares a<g ref="char:EOLhyphen"/>mong the wheat, and goeth his way</hi> undiſcerned. The harlots feet <hi>abide not in her houſe; now ſhee is without, now in the ſtreets, and lieth in wait at every corner:</hi> Such is the dili<g ref="char:EOLhyphen"/>gence of Sactaries.</p>
+            <p>The ſecond generall head, giving ſuch ſucceſſe to he<g ref="char:EOLhyphen"/>reſies,
+<pb n="30" facs="tcp:113497:20"/> and erroneous opinions, is taken from the people, the perſons that are ſeduced: The <hi>prince</hi> of this world comes and <hi>findes</hi> ſomething in them. The ſhaking of the glaſſe may raiſe ſome froth in the water, but no filth, if there be not mud in the bottome. Diſeaſes prove in<g ref="char:EOLhyphen"/>fectious by reaſon of the <hi>dyſcraſy</hi> of our inward tempe<g ref="char:EOLhyphen"/>rature. People are made obnoxious to ſeduction by two things; their <hi>ſimplicity,</hi> and <hi>curioſity:</hi> Of which briefly.</p>
+            <p>Firſt, The <hi>ſimplicity, ignorance, ungroundedneſſe</hi> of the people affords great advantage to ſeducers. Where the foundation is not well laid, the building cannot ſtand long, though not medled with; but will preſently fall, if the leaſt violence be uſed: A people uncatechiſed in the principles of religion, are a facile and obvious prey to falſe teachers. This the Apoſtle hath an eye to, <hi>Chil<g ref="char:EOLhyphen"/>dren are eaſily toſſed to and fra with every winde of doctrine;</hi> 
+               <note place="margin">Epheſ. 4. 14.</note> as a ſhip on the ſeas, not having ſufficient balaſt, is dri<g ref="char:EOLhyphen"/>ven with every winde, and in danger of being overturned with every wave. <hi>The ſimple beleeveth every word</hi> (ſaith <note place="margin">Prov. 14. 15.</note> 
+               <hi>Solomon,) but the prudent looketh well to his going. They lead captive ſilly women, laden with divers luſts, ever leara<g ref="char:EOLhyphen"/>ing,</hi> 
+               <note place="margin">2 Tim. 3. 6.</note> 
+               <hi>but never able to come to the knowledge of the truth.</hi> Se<g ref="char:EOLhyphen"/>ducers are furniſhed with <hi>ſubtilty</hi> to deceive, and people prepared, through <hi>ſimplicity,</hi> to be deceived; and from <hi>ſimplicity</hi> it is, that <hi>ſubtilty</hi> prevailes. Beſides, that the Scripture doth <hi>ordinarily</hi> point out ignorant and un<g ref="char:EOLhyphen"/>grounded men the object of ſeduction, it is obſerved by the Ancients; <note n="o" place="margin">
+                  <hi>Haereſes apud eos multum valent qui in fide non valent,—de quorundam infirmi<g ref="char:EOLhyphen"/>tatibus habent quod valent, nihil valentes ſi in bene valentem fidem incurrant,</hi> De praeſcript. c. 2.</note> That hereſies are ſtrong where knowledge is weak, and prevail not ſo much by their own ſtrength, as by the weakneſſe of the adverſary: <note n="p" place="margin">
+                  <hi>Diſpenſatio iſta, ac libratio prudens verbo<g ref="char:EOLhyphen"/>rum indoctos decipere poteſt, cautus auditor &amp; lector citò deprehendet inſidias, &amp; cu<g ref="char:EOLhyphen"/>niculos, quibus veritas ſubvertitur, apertè in luce demonſtrabit,</hi> Hieron. ad Pammac. Epiſt. 61.</note> That all their knotty arguments, and glozing ſpeeches may haply deceive the unlearned and i<g ref="char:EOLhyphen"/>gnorant, but a prudent and wary hea<g ref="char:EOLhyphen"/>rer will eaſily diſcern their ſophiſtry,
+<pb n="31" facs="tcp:113497:20"/> and diſcover the fraud by which they endeavour to under<g ref="char:EOLhyphen"/>mine the truth. Hereticall arguments are but bare preten<g ref="char:EOLhyphen"/>ces, in this reſembling <hi>the ſpiders cob-web,</hi> that they are fit to hold the weaker Chriſtians, whileſt the ſtronger break away, and ſave themſelves. And let this conſideration ſtay us, that <hi>wee ſtumble not;</hi> and ſeducers, that <hi>they triumph not</hi> in the great defection unto ſeverall opinions now a<g ref="char:EOLhyphen"/>mongſt us. They have deceived <note n="q" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Nazian. or. 33.</note> 
+               <hi>chil<g ref="char:EOLhyphen"/>dren, Egregiam laudem;</hi> and wee have loſt <note n="r" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Athan. de incarnat. Chriſt.</note> 
+               <hi>chaffe, Spolia ampla:</hi> what great prize, that a ſtumbling-block hath been laid before a blinde man, and hee hath ſtumbled at it? Cer<g ref="char:EOLhyphen"/>tainly, ſuch are they, even children, many in yeers, moſt in underſtanding, that, amongſt us, are perverted by new opinions.</p>
+            <p>Secondly, The <hi>curioſity</hi> of the people adminiſters no ſmall advantage to ſeducers. Men are not content with <hi>ſound doctrine,</hi> and <hi>old truths,</hi> but, as the <hi>Athenians,</hi> ſpend <note place="margin">Act. 17. 21.</note> 
+               <hi>their time to tell or to heare ſome new thing:</hi> men that <hi>have itching ears heap to themſelves—teachers after their own</hi> 
+               <note place="margin">2 Tim. 4. 3, 4.</note> 
+               <hi>luſts, and turn away their ears from the truth, and are turned to fables,</hi> (ſaith S. <hi>Paul.) To be alwayes learning,</hi> is that which <note place="margin">2 Tim. 3. 6.</note> betrayes <hi>ſilly women</hi> to be led captive by ſeducers: And the Apoſtle <hi>Peter</hi> tels us, that not onely by the luſts of the fleſh, but <hi>much wantonneſſe</hi> (wantonneſſe of the brain) they <hi>that were clean eſaped from them that live in errour, are</hi> 
+               <note place="margin">2 Pet. 2. 18.</note> 
+               <hi>allured.</hi> It is a notable expreſſion of <note n="ſ" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> De Trinit. Dial. 1.</note> 
+               <hi>Cyril,</hi> comparing ſome in his time to <hi>heifers,</hi> that run at their eaſe, leave the herd and wholeſome pa<g ref="char:EOLhyphen"/>ſture, to gnaw upon briars and thorns, and ſo poſſibly catch a prick in their foot, that they never go upright after. Sure I am, it is ſo with many amongſt us, who, in the <hi>wantonneſſe of their wits,</hi> withdraw them<g ref="char:EOLhyphen"/>ſelves from the <hi>publicke Aſſemblies,</hi> from the Miniſters
+<pb n="32" facs="tcp:113497:21"/> whom God hath ſet over them, from the paſtures in which they ought to feed, and betake themſelves to <hi>cop<g ref="char:EOLhyphen"/>pices,</hi> to gnaw (at the beſt) on briars and thorns; <hi>poſſibly,</hi> (if I may allude to the viſion of <hi>Robertus Gallus)</hi> on rocks and ſtones: It is no marvell if they be lean and ill liking, if many catch pricks, and come halting home. To paſſe from this; the Apoſtle, that hee might preſerve in<g ref="char:EOLhyphen"/>tire in the faith, gives eſpeciall caution againſt curioſity, that <hi>queſtions be avoided, and oppoſitions of ſcience falſly ſo called.</hi> But of this hitherto.</p>
+            <p>The third generall head, from which the ſucceſſe of hereſies ariſeth, is <hi>the providence of God</hi> juſtly permitting that it ſhould be ſo:</p>
+            <p>Firſt, as a puniſhment of the <hi>luke-warmneſſe of men, and want of love to the truth:</hi> The ſin grievous, the underva<g ref="char:EOLhyphen"/>luing of light; the puniſhment dreadfull, light is re<g ref="char:EOLhyphen"/>moved, darkneſſe ſent in ſtead of light. God will not endure the deſpiſing of light. The <hi>Gentiles held the truth in unrighteouſneſſe,</hi> they <hi>delighted not to have God in their knowledge,</hi> Rom. 1. <hi>God gave them over to a reprobate ſenſe,</hi> and when they profeſſed wiſdome, <hi>they became fools, their fooliſh hearts were darkened.</hi> Thus God dealt with <hi>Ahab;</hi> hee hated <hi>Micaiah,</hi> with whom the word of the Lord <note place="margin">2 Reg. 22.</note> was, and cared not to hear him; the Lord therefore gives commiſſion to a lying ſpirit to ſeduce his prophets, and prevail with him to his deſtruction. Thus with Iſrael; <hi>Propheſie not, ſay they</hi> (the people) <hi>to them that propheſie: They ſhall not propheſie,</hi> ſaith the Lord: but <hi>if a man walk</hi> 
+               <note place="margin">Micah 2. 7, 12.</note> 
+               <hi>in the ſpirit and lie, he ſhall be the prophet to this people.</hi> Thus with the Jews; They that would not receive Chriſt that came in his Fathers Name, will certainly receive an im<g ref="char:EOLhyphen"/>poſtor that comes in his own name. Thus with Chriſti<g ref="char:EOLhyphen"/>ans; as ſaith the Apoſtle, <hi>becauſe they received not the love of the truth, that they might be ſaved; and for this cauſe God ſhall ſend them ſtrong deluſions,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the efficacy of errour, errour in the ſtrength, <hi>that they may beleeve a lye.</hi> This ſin made way for Mahumetaniſme in the Ea<g ref="char:EOLhyphen"/>ſterne
+<pb n="33" facs="tcp:113497:21"/> Churches; Popery in the Weſtern was the pu<g ref="char:EOLhyphen"/>niſhment of this ſin: God is the ſame ſtill, the ſame in revenging his deſpiſed truth. Truth hath been preached amongſt us, deſpiſed amongſt us, imbraced by very few in the power, in the love of it; God revengeth it, and this revenging hand of God may be ſenſibly felt and di<g ref="char:EOLhyphen"/>ſcerned in our diſtractions. Was it poſſible that a man ſhould burn one piece of a tree, and worſhip another, if God had not ſhut up his eyes? <note n="t" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, E<g ref="char:EOLhyphen"/>piph. de Encratitis. Haereſ. 47.</note> A prudent man may ſee, and wonder, and be amazed at the tenents, car<g ref="char:EOLhyphen"/>riages, &amp;c. of ſeducers, how in<g ref="char:EOLhyphen"/>conſiſtent they be, how far from ſhew of truth, and at the great defection to them: Doubtleſſe, this is none other but the hand of God upon the ſeduced, for their want of love to that truth which they had re<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>Secondly, as a <hi>triall of thoſe that are ſound: There muſt</hi> 
+               <note place="margin">1 Cor 11.</note> 
+               <hi>be hereſies amongst you,</hi> (ſaith the Apoſtle) <hi>that the approved may be made manifeſt.</hi> It is the winde that diſcovers and ſevers the chaffe from the wheat. <note n="u" place="margin">
+                  <hi>Ob hoc haereſeωn non ſtatim divinitùs era<g ref="char:EOLhyphen"/>dicantur authores, ut—unuſquiſque quàm tenax, &amp; fidelis, &amp; fixus catholicae fidei ſit a<g ref="char:EOLhyphen"/>mator, appareat. Et revera, cum quaeque no<g ref="char:EOLhyphen"/>vitas ebullit, ſtatim cernitur frumentorum gra<g ref="char:EOLhyphen"/>vitas, &amp; levitas palearum; tunc ſine magno molimine excutitur ab area, quod nullo pon<g ref="char:EOLhyphen"/>dere intra aream tenebatur, &amp;c.</hi> Vincent. Lyrinenſ. cap. 25.</note> They that are carried about with diverſe and ſtrange doctrines never had any ſolidity: <hi>if they had been of us, they would have continued with us.</hi> The houſe founded on the rock doth not fall, though the winds blow, the waters riſe, and waves beat upon the houſe, yet is the riſing of the winds, and beating of the waves upon the houſe, a ſore tempta<g ref="char:EOLhyphen"/>tion: it had certainly fallen, had it not been founded on a rock. It was a ſeaſonable queſtion which our Saviour mo<g ref="char:EOLhyphen"/>ved to his diſciples upon the defection of the Capernaites, <hi>Joh.</hi> 6. <hi>Will yee alſo go away?</hi> It was a brave reſolution that <hi>Peter</hi> put on, <hi>Though all men forſake thee, yet will not I; though I die with thee, yet will I not deny thee:</hi> but hee could not
+<pb n="34" facs="tcp:113497:22"/> performe it; when his Maſter was taken, hee followes a farre off, a <hi>praeludium</hi> to his denyall: <hi>Qui timidè confitetur, negat;</hi> when hee was in the high Prieſts hall, hee not onely denied, but forſwore him, the knowledge of him, with execrations. The <hi>riſing</hi> of hereſie is a great triall, <hi>Deut.</hi> 13. 1, 2, 3, 4. <hi>The Lord your God trieth you,</hi> ſaith <hi>Mo<g ref="char:EOLhyphen"/>ſes:</hi> the <hi>prevailing</hi> of hereſie is a greater; an hard mat<g ref="char:EOLhyphen"/>ter it is to reſiſt the ſollicitations of the father of our fleſh, the ſonne of our loines, the wife of our boſomes, the friend whom we love as our lives: an hard matter it is to ſwim againſt the ſtream: hee is a ſouldier that ſtands to his arms, when ſome throw them down and run away, ſome throw them down and call for quarter, ready to take pay under the enemy. When men of name for parts, knowledge, piety, ſufferings, ſhall deſert the truth, he ſtands faſt that doth not ſtagger: If <hi>Peter</hi> diſ<g ref="char:EOLhyphen"/>ſemble, <hi>Barnabas</hi> is carried away with his diſſimulation. Look to your ſelves, take heed leſt you fall, God ſuffers theſe things for your triall: Hee ſuffers the evill of he<g ref="char:EOLhyphen"/>reſies, that by reaſon of them his truth may be more cleered, his people more confirmed, hypocrites diſcover<g ref="char:EOLhyphen"/>ed, and ſhed out of the Church, and a purer body left behinde. But thus much of the reaſon: And let what hath been ſpoken ſuffice to be ſaid of the Doctrinall part, That hereſies, or errours in opinion, are of a ſpreading and deſtroying nature: wherein I have ſhewed, 1. That they eat as a <hi>Gangrene, ſpeedily, incurably, mortally.</hi> 2. What they eat; they eat up <hi>faith, peace, piety.</hi> 3. How it comes to paſſe they thus eat; from hereticks, their <hi>ſubtilty</hi> and <hi>induſtry;</hi> from the people, their <hi>ſimplicity</hi> and <hi>curioſity;</hi> from God, his juſtice both <hi>to revenge the want of love to the truth,</hi> and <hi>manifeſt thoſe that are approved.</hi> Now a word or two for application.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> If hereſies will eat as doth a gangrene, then here is matter of mourning over the ſad and diſeaſed condition of our Churches, that have in them many <hi>gangrenes,</hi> be<g ref="char:EOLhyphen"/>cauſe many <hi>hereſies,</hi> and all things are bending to a
+<pb n="35" facs="tcp:113497:22"/> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (as the Chirurgians call it) the heighth of mor<g ref="char:EOLhyphen"/>tification: This is matter of <hi>lamentation,</hi> as <hi>Ezekiel</hi> ſpeaks, and <hi>ſhall be for a lamentation. Jobs</hi> caſe, over which his friends for ſeven dayes wept, was not ſo bad as ours: his ſores were <hi>boyles,</hi> ours <hi>gangrenes;</hi> his would en<g ref="char:EOLhyphen"/>dure <hi>ſcraping,</hi> ours will not endure <hi>touching;</hi> his <hi>body</hi> was affected, our <hi>ſouls. How is the faithfull City become an har<g ref="char:EOLhyphen"/>lot?</hi> How is our wine mixt with water, our ſilver be<g ref="char:EOLhyphen"/>come droſſe? Is it nothing to you, O all ye that paſſe by? Was any ſorrow like unto ours? But ſorrow is an helpleſſe paſſion: It's for a childe to ſit ſtill and cry.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> If hereſies will eat as doth a gangrene, then here is matter of anger againſt <hi>Phyſicians</hi> of no value, that would have them, if not tolerated, connived at; if not ſo, yet not <hi>proceeded againſt with any vigour:</hi> as if (like a ſlight green wound) they would cure of themſelves; or, if not cured, they were not dangerous: men of the tem<g ref="char:EOLhyphen"/>per <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hae<g ref="char:EOLhyphen"/>reſ.</note> of the <hi>Samſaeans</hi> in <hi>Epiphanius,</hi> who were neither <hi>Christians,</hi> nor <hi>Jewes,</hi> nor <hi>Gentiles,</hi> but deſirous to hold faire correſpondence with all religions, they were of no religion, they were yet to chooſe of what religion they would be. But,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> If hereſies will eat as doth a gangrene, I beſeech you all that are yet ſound, take heed of them: a gangrene is eaſier prevented, then cured; and ſo are hereſies. Let me prevail, perſwading to diligence of indeavour to ſtay the further ſpreading of this deſtroying maladie: Think you hear the voice of the Church like the cry of the man in the pit, <hi>Amice, vide ut me extrahas:</hi> if you love me, endea<g ref="char:EOLhyphen"/>vour to heal mee of my ſores, endeavour to help me out of my errours. I ſhall apply this to three ſorts of perſons whom I ſee before mee; the <hi>People,</hi> the <hi>Miniſter,</hi> the <hi>Ma<g ref="char:EOLhyphen"/>giſtrate;</hi> and in all be very ſhort, and ſo conclude.</p>
+            <p>Firſt, To the <hi>People:</hi> Dearly beloved brethren, for you <hi>the net is ſpread,</hi> it is for your precious ſouls <hi>that de<g ref="char:EOLhyphen"/>ceivers hunt,</hi> it is for your ſakes that I have pitched upon theſe meditations; I beſeech you, take notice of what a
+<pb n="36" facs="tcp:113497:23"/> ſpreading, what a deſtroying nature hereſies are, and keep your ſoules with all diligence, leſt <hi>by any man, by any means</hi> you be deceived. You are fallen into dangerous times, into times of great temptation; er<g ref="char:EOLhyphen"/>rours, like a floud, come up over all their channels, goe over all their banks, overflow, goe over, and reach even unto the neck, and cover the land, as the waters the ſea: And let me tell you, <hi>(what-ever ſome men ſay)</hi> they are dangerous errours, many of them razing the foundation, and drowning men in deſtruction and perdition; the leaſt of them ſuch as (if not deadly in themſelves, and in their own nature) may prove deadly in their conſequences and ſad effects, as preparing the heart to entertaine thoſe that are in their owne nature deadly. I beſeech you therefore, as you love the Lord Jeſus Chriſt, as you tender the everlaſting ſalvation of your ſoules, watch, be carefull that no man deceive you: And that you may not be deceived, I commend (paſſing by many others) theſe three rules:</p>
+            <p>Firſt, Adhere unto your own miniſtry, and wait upon them whom God in his providence hath ſet over your ſoules. The end why God hath given to his Church Paſtors and Teachers, is ſet down by the Apoſtle to be, that we may <hi>be no longer children in knowledge, toſſed to and</hi> 
+               <note place="margin">Epheſ. 4. 14.</note> 
+               <hi>fro with every wind of doctrine.</hi> God will bleſſe and be ef<g ref="char:EOLhyphen"/>fectuall by his owne ordinance: by it he will <hi>lead in wiſ<g ref="char:EOLhyphen"/>dome, and in underſtanding.</hi> May wee not goe abroad to hear? This is beſides my purpoſe: But why ſhould you goe abroad to buy, when you have food at home? God hath been <hi>gracious</hi> to this City; I may ſpeak it without arrogance, it was hardly ever better provided for; the loſſe of the country hath been your gain: Why ſhould you withdraw your ſelves? <hi>The mothers milk is moſt na<g ref="char:EOLhyphen"/>turall for the infant;</hi> the ſheep that wanders from the flock is in moſt danger of the wolfe; change of diet is not wholeſome for the body; is it for the ſoule? An<g ref="char:EOLhyphen"/>other man may have better gifts then thy Paſtour;
+<pb n="37" facs="tcp:113497:23"/> can he have more love to, and care of thy ſoul then hee that muſt give an account for it? Children that often change their Maſters, ſeldome prove good ſcholars; nor they <hi>ſolid and underſtanding</hi> Chriſtians, that change their Miniſters. But I will not inſiſt on this: I am not againſt hearing abroad occaſionally; but, for the preventing of miſleading, deſire to perſwade the uſe of the <hi>publick</hi> Mini<g ref="char:EOLhyphen"/>ſtery, and of your own Miniſters, whom God hath given you to be your guides. And let mee tell you of one great miſcarriage, and not the leaſt cauſe of ſo much defection; it is this, <hi>The people are ſo ſtrange</hi> from their Miniſters, from private conference, communicating their feares, their doubts, their temptations, asking advice and counſell of them, at whoſe mouthes they ſhould enquire the law: they bury all in their own boſomes to their great diſturbance, or ask of others, who ſeduce them by miſ-information. To paſſe from this, if any of you be miſlead, yee have the means to prevent it, your bloud will be upon your own heads. If a virgin betrothed to an husband was raviſhed <note place="margin">Deut. 22. 23.</note> in the city, not only hee that raviſhed her, but ſhe her ſelf ſhould die; ſhe cried not out that ſhe might have been hol<g ref="char:EOLhyphen"/>pen: if ſhe was raviſhed in the field, ſhee was not to die, becauſe no help was neer; but he that raviſhed her was to die. Beloved, you are eſpouſed to Jeſus Chriſt as a <note place="margin">2 Cor. 11.</note> chaſte virgin, <note n="x" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Cyril. de ador. in ſpir. &amp; verit. l. 8.</note> ſeducers are your adulterers, they corrupt you from the ſimplicity that is in Chriſt; if this be done in the city, <hi>i. e.</hi> in the Church of God, in the City of Chriſt, where Miniſters reſide that may ſuccour you when aſſaulted, your bloud will be upon your own heads, you cried not out for help, you betrayed your chaſtity to the luſt of your raviſher. People that ſit in darkneſſe, where are no Mi<g ref="char:EOLhyphen"/>ſters, if they fall, may be excuſed <hi>à tanto;</hi> they had none
+<pb n="38" facs="tcp:113497:24"/> to help them: but your bloud will be upon your heads.</p>
+            <p>Secondly, <hi>Try all things:</hi> This is the counſell of Saint <hi>John, Beleeve not every ſpirit, but try the ſpirits whether they</hi> 
+               <note place="margin">1 Joh. 4. 1.</note> 
+               <hi>be of God or no, for many falſe prophets are come into the world. Try all things,</hi> (ſaith S. <hi>Paul) and hold faſt that which is good.</hi> 
+               <note place="margin">1 Theſſ. 5. 17.</note> Farre be it from Chriſtians, that they ſhould be the ſcho<g ref="char:EOLhyphen"/>lars of <hi>Apelles</hi> or <hi>Papiſts,</hi> 
+               <note n="y" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Euſeb lib. 5. 12.</note> not at all to ſearch the Scri<g ref="char:EOLhyphen"/>pture; like <hi>infants,</hi> to gape and ſwallow what-ever the <hi>nurſe</hi> puts into their mouthes. Conſider that notable ſpeech of <hi>Athanaſius</hi> to this pur<g ref="char:EOLhyphen"/>poſe, <note n="z" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Tom. 2. p. 325.</note> Shall I beleeve unreaſo<g ref="char:EOLhyphen"/>nably? Shall I not ſearch what is poſſible, or profitable, or comely, or pleaſing to God, a<g ref="char:EOLhyphen"/>greeable to nature, conſonant to truth, &amp;c? This hath been the ſole and adequate originall of all errour to thoſe that have been deceived. <hi>Many</hi> want <hi>will</hi> to doe it, they will not take ſo much pains, and what needs ſo much adoe? they (we hear) are honeſt, godly, &amp;c. But would you not tell mony after them, and weigh gold? and will you take doctrine upon truſt without triall? May not every man deceive, and be deceived? Is there not danger in being de<g ref="char:EOLhyphen"/>ceived? Should your faith be built upon man? <hi>Many</hi> pre<g ref="char:EOLhyphen"/>tend they want <hi>skill,</hi> they cannot do it: The moſt filly creature hath ſo much from the inſtinct of nature, as to be able to know wholeſome food, if it be well; and ſome of them their phyſick, if they be ſick: and art thou a <hi>man,</hi> a <hi>Chriſtian,</hi> a <hi>profeſſour,</hi> a <hi>forward one,</hi> unable to diſcern between light and darkneſſe? To what purpoſe ſerves the annointing which we have of God, but to inform <note place="margin">1 John 2.</note> and teach us concerning thoſe that ſeduce us? <note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Ignat. ad Epheſ.</note> Why are wee not wiſe, ſeeing wee have underſtanding? Why re<g ref="char:EOLhyphen"/>maine wee ignorant, that are taught of God? Why neglect we the gift beſtowed on us,
+<pb n="39" facs="tcp:113497:24"/> and periſh like fooles? <note n="b" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Clem. Alex. Strom. lib. 7.</note> Wari<g ref="char:EOLhyphen"/>neſſe is not required in any thing more then in matters of religion: Some errors are ſo like truth, that they can hardly be diſcerned: All deſire to walk under the veile of truth; have your eyes in your heads, that you be not deceived. It is beſides my purpoſe to lay down cautions in triall, rules of triall; I onely aſſure you, as <note n="c" place="margin">
+                  <hi>In compendio eſt apud religioſas mentes &amp; ſimplices &amp; errorem deponere, &amp; invenire, atque eruere veritatem; nam ſi ad divinae traditio<g ref="char:EOLhyphen"/>nis caput atque originem re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ertamur, ceſſat error humanus,</hi> Cypr. ad Pompei. contr. lit. Ste<g ref="char:EOLhyphen"/>phan. Epiſt. 74.</note> 
+               <hi>Cyprian</hi> did another, It is not an hard matter for godly and ſincere people to eſcape out of the ſnares of errour, and to find out, and to diſcover truth. If they bring all things to the <hi>touch-ſtone of the Scripture</hi> by an impartiall and <hi>unpreju<g ref="char:EOLhyphen"/>diced</hi> triall, errour will be diſperſed, as miſts are diſſipa<g ref="char:EOLhyphen"/>ted by the beams of the Sun.</p>
+            <p>Thirdly, <hi>Avoid</hi> thoſe that are <hi>erroneous,</hi> their <hi>congre<g ref="char:EOLhyphen"/>gationall meetings,</hi> and, as much as may be, their <hi>perſonall converſe.</hi> In times of infection men doe not onely make uſe of <hi>antidotes,</hi> but with all care ſhun <hi>places</hi> and <hi>perſons</hi> that are infected, that they may prevent the danger of in<g ref="char:EOLhyphen"/>fection: the like caution is in this caſe commended; <hi>I</hi> 
+               <note place="margin">Rom. 16. 17.</note> 
+               <hi>beſeech you, brethren</hi> (ſaith S. <hi>Paul) mark thoſe which cauſe diviſions and offences, contrary to the doctrine which you have received, and avoid them.</hi> And S. <hi>John, If there come any un<g ref="char:EOLhyphen"/>to</hi> 
+               <note place="margin">2 John 10.</note> 
+               <hi>you, and bring not this doctrine, receive him not into your houſe, nor bid him God ſpeed.</hi> If with one <hi>called a brother,</hi> being a <hi>fornicator,—</hi>a <hi>railer,—</hi>we <hi>muſt not eat;</hi> how ought wee to ſhun ſuch as <hi>adulterate</hi> the word of God, and <hi>blaſpheme</hi> the truth? How <note n="d" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ignat. ad Smyrn.</note> come<g ref="char:EOLhyphen"/>ly is it not only to abſtain from ſuch things, both the private and publick diſcourſe of them, but to ſhun the authours of infamous hereſies and ſects, as the <hi>originall of all miſchiefe?</hi> St. <hi>John</hi> 
+               <note n="e" place="margin">Niceph. l. 4.</note> would not endure the company of <hi>Cerinthus</hi>
+               <pb n="40" facs="tcp:113497:25"/> in the bath: <hi>Policarp</hi> abhorred conference with <hi>Marci<g ref="char:EOLhyphen"/>an,</hi> as the firſt-born of the divell: <note n="g" place="margin">Athan. in vit.</note> 
+               <hi>Antonius</hi> deteſted all communion with ſuch as had corrupted the faith, and divided the Church: the Chriſtians in the dayes of <hi>Baſil</hi> 
+               <note n="h" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Baſ. Epiſt. 69.</note>, when Arianiſme had ſo prevailed, ſhunned their meeting houſes, as the Schooles of errour; and is there not reaſon for it? Conſider thoſe laid down by the A<g ref="char:EOLhyphen"/>poſtles: Firſt, <hi>Such</hi> (whatſoever their pretences be) <hi>ſerve not the Lord Jeſus Christ, but their own bellies;</hi> they ſin not of ignorance, or being deceived, but knowingly: to adhere to them, is to deſert Chriſt. They ſin to ſerve their bellies, as <note n="i" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Theophylact</hi> upon the place. Every hereſie hath its originall to be ſubſervient to ſome luſt; and ſhould not a brother of Chriſt bluſh to make ſuch a ſervant to his own belly his maſter? Secondly, <hi>with fair ſpeeches—they deceive the hearts of the ſimple:</hi> there is much danger of infection; <hi>Can a man touch pitch, and not be defiled? Can he carry</hi> coals of <hi>fire in his boſome, and not be burnt?</hi> May not Satan ſeiſe upon thee, finding thee amongſt his own, as upon the woman in the <note n="k" place="margin">Tert. de ſpect. cap. 26.</note> 
+               <hi>The<g ref="char:EOLhyphen"/>atre?</hi> Thirdly, <hi>Hee that bids him God ſpeed, is partaker of all his evill works:</hi> thy ſitting and eating in an idols temple may be a ſnare and ſcandall to thy weak brother, may be an incouragement unto ſectaries, &amp;c. Thou maiſt bring upon thy head the guilt of <hi>blaſphemies,</hi> the bloud of ſoules. Shall I adde one reaſon more? Thou maiſt poſſibly periſh with them. I have often thought of the ſpeech of <note n="l" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ad Philadelph.</note> 
+               <hi>Ignatius,</hi> They that adhere to ſuch as adhere not to truth, ſhall not inherit the king<g ref="char:EOLhyphen"/>dome of God: they that depart not from falſe teachers, ſhall be condemned unto hell. Hee that would not be drawn away with the wicked, and the wor<g ref="char:EOLhyphen"/>kers of iniquity unto perdition, as <hi>David</hi> prayes, muſt <note place="margin">Pſal. 28. 3.</note>
+               <pb n="41" facs="tcp:113497:25"/> learn to hate the congregation of evill doers, as <hi>David</hi> 
+               <note place="margin">Pſal. 26. 4.</note> pleads. There's reaſon enough to diſſwade from their meetings: <note n="m" place="margin">
+                  <hi>Dubitas illo momento quo in Diaboli ec<g ref="char:EOLhyphen"/>cleſia fueris, omnes Angelos proſpicere de coelo, &amp; ſingulos denotare, quis blaſphemiam dixe<g ref="char:EOLhyphen"/>rit, &amp; quis audierit? quis linguam, quis au<g ref="char:EOLhyphen"/>res Diabolo adverſùs Deum adminiſtraverit?</hi> Tertull. ib. cap. 27.</note> Do not the Angels, think you, look from heaven? Do they not obſerve who ſpeak blaſ<g ref="char:EOLhyphen"/>phemy, and who hear it? who lend the Divell their tongues againſt God, and who their ears? May I not conclude this with the Prophet, <hi>Though thou Iſ<g ref="char:EOLhyphen"/>rael</hi> 
+               <note place="margin">Hoſ. 4. 15.</note> 
+               <hi>play the harlot, let not Judah offend, and come not yee unto Gilgal, neither go up to Beth-aven?</hi> 
+               <note n="n" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Ignat. ad Trallenſ.</note> A<g ref="char:EOLhyphen"/>void Atheiſticall hereſies, they are the inventions of the Divell; ſuch fruit, whoſoever taſteth of, ſhall die, not a temporall, but an eternal death. I preſſe this upon you, not for your ſelves onely, but <hi>your families,</hi> your wives, children, and ſervants, for whom you are reſponſible. It was <hi>Joſhua's</hi> reſolution, <hi>I and my houſe will ſerve the Lord:</hi> the elect Ladies comfort, that her children <hi>were walking in the truth:</hi> You would reſtrain them from taverns, brothel-houſes, ſtage-playes; re<g ref="char:EOLhyphen"/>ſtrain them from theſe meetings, of which I may ſay, as <note n="o" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> O<g ref="char:EOLhyphen"/>rat. 2. contr. Jud. tom. 6.</note> 
+               <hi>Chryſostome</hi> of the Synagogues of the Jewes, they are ſome of them worſe, the dens of theeves, the Divels meeting-houſes: therefore betray not their ſalvation. Thus you have directions for the people to prevent the ſpreading of this gangrene: But O, how are they neglected! The publick miniſtery is forſaken, opinions imbraced for truth, not onely before they be tried, but before they be declared what they be: the in<g ref="char:EOLhyphen"/>conſiderate people flock to the meeting-houſes of Secta<g ref="char:EOLhyphen"/>ries, as ſwarmes of flies (if it may not be offenſive to uſe the ſimilitude of <hi>Plutarch)</hi> in an hot ſummers day, to a gall'd back, thence to ſuck out filth and corruption. And is it a wonder that errours prevaile? But of this hitherto.</p>
+            <pb n="42" facs="tcp:113497:26"/>
+            <p>Secondly, To you, my brethren in the <hi>Miniſtery,</hi> I de<g ref="char:EOLhyphen"/>ſire to ſpeak ſomething, and to my ſelf: God expects at our hands, as officers in the Church, that wee endeavour with all our gifts, all our power (which he hath given us <hi>for edification, and not for deſtruction)</hi> not only to prevent the <hi>ſpreading,</hi> but (if it be poſſible) the <hi>being</hi> of hereſies: And to this purpoſe it is required,</p>
+            <p>Firſt, That hereſies be <hi>diſcovered,</hi> that hereticks <hi>by ſound doctrine be convinced:</hi> As a word, an erroneous word ma<g ref="char:EOLhyphen"/>keth the wound, <hi>[Their word doth eat as doth a canker;]</hi> ſo a word, a ſound word doth make the cure, [<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.] The way to ſtop the further proceedings of ſeducers, is to make <hi>their folly manifeſt to all men:</hi> And <note place="margin">2 Tim. 3. 9.</note> to this purpoſe God requires of Miniſters, not onely to teach the ignorant, but to <hi>convince gainſayers.</hi> Other men of abilities may do it <hi>ex charitate,</hi> you muſt do it <hi>ex officio:</hi> God hath made you <hi>watchmen,</hi> not onely to warn, when grievous wolves from without make havock of the flock; but then to take heed, when ſubtil foxes from within teach <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, crooked and perverſe things, to draw diſciples after them. God hath left unto all men the judge<g ref="char:EOLhyphen"/>ment of diſcretion, to you is committed the judgement of direction; every man is bound to ſee for himſelf, you are commanded to ſee for others: The commiſſion of the Mi<g ref="char:EOLhyphen"/>niſter is, <hi>They ſhall teach my people the difference between the</hi> 
+               <note place="margin">Eze. 44. 23, 24.</note> 
+               <hi>holy and profane, and cauſe men to diſcern between the unclean and the clean. And in controverſie they ſhall ſtand in judge<g ref="char:EOLhyphen"/>ment, and they ſhall judge it according to my judgements; and they ſhall keep my lawes, and my ſtatutes in all mine aſſemblies, and they ſhall hallow my Sabbaths.</hi> And it is the direction of the Apoſtle, that <hi>the ſpirits of the Prophets be ſubject to</hi> 
+               <note place="margin">1 Cor. 14. 32.</note> 
+               <hi>the Prophets.</hi> The declaration of what is hereticall, what orthodox; what is lawfull, what ſcandalous, belongs to you: you will be found as guilty of violating the law, and profaning the holy things of God, if you put not this <note place="margin">Eze. 22. 25, 26.</note> difference, as others if they confound them. This is the Scripture way: The Angel of the Church of Epheſus is
+<pb n="43" facs="tcp:113497:26"/> commended, <hi>Thou haſt tried them which ſay they are Apoſtles,</hi> 
+               <note place="margin">Rev. 2. 2.</note> 
+               <hi>and are not, and haſt found them liars. Paul</hi> and <hi>Barnabas</hi> had <note place="margin">Acts 15. 2.</note> great diſſention and diſputation with them that corrupted the doctrine of the Goſpel in <hi>Antioch.</hi> This hath been the way of the Churches of Chriſt in all ages: the Miniſters have been imployed ſeverally, and in Councels, in the diſ<g ref="char:EOLhyphen"/>covery and confutation of all errours that have ariſen. This truth is ſo notorious to all that have had the leaſt acquaintance with Antiquity, that it would be loſt labour, and time miſ-ſpent to prove it: the writings of the Fa<g ref="char:EOLhyphen"/>thers, the hiſtories of the Councels bear ample teſtimony to it, being for the moſt part taken up with this occaſion. Let him that hath a deſire, read <hi>Ambroſe</hi> in his 32. Epiſtle to the younger <hi>Valentinian,</hi> and in his 33. Epiſtle <hi>ad ſoro<g ref="char:EOLhyphen"/>rem.</hi> This is our duty in the behalf of our people, as <note n="p" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Orat. 40.</note> 
+               <hi>Na<g ref="char:EOLhyphen"/>zianzene</hi> ſaid ſometimes to his, <hi>Leave the battell to me;</hi> Let me build the ſhip, do thou ſail in it; Let the fight be mine, thine the victory; Let me grapple with the adverſary, be thou in peace. O that in theſe times of defection we all of us had hearts to diſ<g ref="char:EOLhyphen"/>charge in this particular our duties; which we have never diſcharged, till ſuch time as we have diſcovered and con<g ref="char:EOLhyphen"/>vinced errours, and that boldly, plainly, fully, and with authority: and in <note n="*" place="margin">Baldu. de ca<g ref="char:EOLhyphen"/>ſi. lib. 4. caſ. 2. cap. 7.</note> ſome caſes <hi>erroneous perſons,</hi> that the people may know of whom to beware, as our Apoſtle, <hi>Of whom is Hymeneus and Philetus.</hi> I know this duty of a Miniſter is not more neglected then decried: What needs ſo much fire? Can you not preach Chriſt, faith, and repen<g ref="char:EOLhyphen"/>tance, and let theſe points in controverſie alone? Do not they preach Chriſt that diſcover errours? Did not the Apoſtle to the Galatians preach Chriſt? Is it not time to ſpeak, when, under a pretence of preaching Chriſt, Chriſt is almoſt preached out of the Church? This much com<g ref="char:EOLhyphen"/>mended Moderation, in which many forbear this duty, is no other then the old ſhift of <hi>Auxentius, Urſacius, Valens,</hi> and other debauched <hi>Arians</hi> in the Councell of Arimi<g ref="char:EOLhyphen"/>num,
+<pb n="44" facs="tcp:113497:27"/> revived of late by Papiſts in Germany, Arminians in Holland, Prelates in England, who found the ſilencing of diſputes the moſt efficacious and plauſible way to advance their deſignes. I deſire wee may ſtrengthen our ſelves a<g ref="char:EOLhyphen"/>gainſt all temptations in this kind, with ſuch like conſide<g ref="char:EOLhyphen"/>rations as <note n="q" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> tom. 2. Conc. ap. Bin. Conc. Epheſ. part. 3.</note> 
+               <hi>Cyril</hi> ſometimes did: O man, there will be no excuſe for thy ſilence, for thy moderation; thou ſtand<g ref="char:EOLhyphen"/>eſt guilty by reaſon of it before God and man, &amp;c. But <hi>verbum ſapienti.</hi> I paſſe from this to a ſecond duty.</p>
+            <p>Secondly, That <hi>hereticks be cenſured,</hi> and by the ſword of diſcipline cut off, that they have their mouthes ſtopped. In the former was exerciſed the power of <hi>order;</hi> in this, the power of <hi>juriſdiction.</hi> By whoſe hands this ſword ſhould be wielded, I ſtand not to diſpute; but ſure I am, wielded it ought to be, and in this caſe drawn forth by ſome hands. <hi>Timothy</hi> was left at <hi>Epheſus, to charge</hi> ſome men <hi>to teach no</hi> 
+               <note place="margin">1 Tim. 1. 3.</note> 
+               <hi>other doctrine:</hi> and <hi>Titus</hi> receives it in commiſſion, <hi>to reject</hi> 
+               <note place="margin">Tit. 3. 8.</note> 
+               <hi>an heretick after the firſt and ſecond admonition:</hi> Chriſt blames the Angels of the Churches in <hi>Pergamus</hi> and <hi>Thya<g ref="char:EOLhyphen"/>tira,</hi> 
+               <note place="margin">Rev. 2. 14, 20.</note> that they ſuffered ſuch as held the doctrine of <hi>Balaam,</hi> and the <hi>woman Jezebel—to teach, and ſeduce</hi> his <hi>ſervants.</hi> This was the medicine which <hi>Paul</hi> applies to <hi>Hymeneus</hi> and <hi>Alexander;</hi> he <hi>delivered them over to Satan, that they might learn not to blaſpheme:</hi> Satan teaches to blaſpheme; but the delivering over unto Satan, teacheth not to blaſpheme. The ſharpeſt cenſures in the Church are of a curing na<g ref="char:EOLhyphen"/>ture; the wounds, not of an enemy, but of a Phyſician: the caſting out of an heretick is either healing to the per<g ref="char:EOLhyphen"/>ſon caſt out, or preventing infection to the people. It hath been the <hi>ultimum remedium</hi> in the pureſt ages of the Church: inſtances I might give; I content my ſelf with one, and that in an ill time of the Church for the <hi>orthodox.</hi> The Fathers aſſembled at <note n="r" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Apud Athan. Epiſt. de Syn. Arim.</note> Ariminum unanimouſly depoſed <hi>Urſacius, Valens,</hi> and ſome others (though upheld by the power and favour of the Emperor <hi>Con<g ref="char:EOLhyphen"/>ſtantius)</hi> that the Chriſtian faith might remain in peace,
+<pb n="45" facs="tcp:113497:27"/> and intire: and this advice gives <note n="ſ" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Orat. 27.</note> 
+               <hi>Nazienzene,</hi> Let them be caſt out as the peſts of the Church, and the poiſoners of truth.</p>
+            <p>But this may ſeem to ſome an hard ſentence, to others an unprofitable courſe. Say ſome, Will you have good, holy, learned, painfull, uſeful men caſt out of the Church? Say others, What will it avail? they ſeparate from you, they have already renounced their miniſtery, deſerted their ſtations, imbodied themſelves in another way, they will not care for your cenſures.</p>
+            <p>The Apoſtle anſwers both theſe objections <hi>Tit.</hi> 3. 9. To the firſt, ſaith he, Reject him that is an heretick, <hi>knowing that ſuch a one is ſubverted,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, hath the faireſt ſide outward: (the word is a metaphor drawn from foule lin<g ref="char:EOLhyphen"/>nen, as <hi>Favorinus,</hi> the foul ſide turned inward) as if hee ſhould have ſaid, Such a man, whatever ſhews he makes, is a naughty man: He that <hi>conſents not to wholeſome words, the</hi> 
+               <note place="margin">1 Tim. 6. 3.</note> 
+               <hi>words of our Lord Jeſus Chriſt, and to the doctrine which is according to godlineſſe, he is proud, knowing nothing,</hi> ſaith the Apoſtle. If you look to the outſide, you ſee the cloathing of a ſheep; if you could look to the inſide, you ſhould ſee the ravening of a wolfe: the outſide of the ſepulchre is painted, the inſide is filth and rottenneſſe: poſſibly we may have high thoughts of truth-corrupters, but God hath not, the primitive Church had not: They none of them are better then <note n="t" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ad Philad.</note> pyramides, or ſepulchres of the dead, that have written upon them the names of dead men: Their opinions, their incorrigibleneſs in their opinions, is a plain manifeſtation of the rottenneſs of their hearts; which if you could diſcern, you would never think it ſtrange that the Apoſtle commands ſuch men to be reje<g ref="char:EOLhyphen"/>cted. The skilfull Chirurgian fals to cutting and ſearing, ſo ſoon as the gangrene begins to appear; a little delay may endanger the life, the whole will not be preſerved but by the loſſe of a part: hereſies are a gangrene (a lepro<g ref="char:EOLhyphen"/>ſie in the head) they may endanger the body, the Church; there is no other eccleſiaſticall way to prevent it, if once
+<pb n="46" facs="tcp:113497:28"/> come to this height, but rejecting; and this poſſibly may not only preſerve the body, but recover the member. And thus much for the firſt branch.</p>
+            <p>To the ſecond, They have caſt out themſelves, &amp;c. Re<g ref="char:EOLhyphen"/>ject him, ſaith the Apoſtle, <hi>he is condemned of himſelfe;</hi> it is ſelf-guiltineſſe that perſwades ſeparation: If ſuch men have paſſed a ſentence againſt themſelves really, that they are unworthy of the communion of faints, the fellowſhip of the Church, the kingdome of heaven; confirm their ſentence, caſt them out judicially, let them bear that neceſ<g ref="char:EOLhyphen"/>ſarily, which they have choſen voluntarily to undergoe. Though that be true which <note n="u" place="margin">
+                  <hi>Quos omnes manifeſtum eſt à ſemetipſis dam<g ref="char:EOLhyphen"/>natos eſſe, &amp; an<g ref="char:EOLhyphen"/>te diem judicii inexcuſabilem ſententiam in ſe<g ref="char:EOLhyphen"/>metipſos dixiſſe, &amp;c.</hi> Epiſt. 75.</note> 
+               <hi>Firmilianus</hi> hath in his E<g ref="char:EOLhyphen"/>piſtle to <hi>Cyprian,</hi> It is manifeſt, that they are all condemned of themſelves, and have paſſed againſt themſelves a dread<g ref="char:EOLhyphen"/>full ſentence before the day of judgement: yet poſſibly the lenity of the Church, waiting with patience, and ſeeking with clemency to gain theſe men, may hide it from their eyes, and beget ſuch high thoughts as in the <hi>Donatiſts</hi> of old, <hi>Si malè facimus, quare nos quaeritis?</hi> If we be ſo bad as you pretend, why do you forbear us, why do you court us, why do you ſeek our communion? <note n="x" place="margin">
+                  <hi>Non quaeruntur niſi qui perie<g ref="char:EOLhyphen"/>runt:—Poſſet &amp; illa ovis tam abſurde paſtori dicere, Si malè facio quòd à grege aberro, quare me quaeris? non intelligens quare ſe putat non eſſe quaerendam, hanc eſſe una<g ref="char:cmbAbbrStroke">̄</g> cauſam quare quaeratur.—Quae<g ref="char:EOLhyphen"/>rimus ergo vos ut inveniamus; tantum enim vos diligimus ut vivatis, quantum vestrum errorem odimus ut intereat, qui vos perdit,</hi> Cont. lit. Petil. l. 2. c. 37.</note> 
+               <hi>Auſtin</hi> gives to this a ſatisfactory anſwer: Nothing is ſought which was not loſt; Should a wandring ſheep ſay to the ſhepherd, If I do ill to wander, why doe you ſeek me?—Wee ſeek them that we may finde them, that they may live; our love to their perſons being as great as our hatred of their errours. But ſeeing pa<g ref="char:EOLhyphen"/>tience and lenity may be made advantage of to the <hi>fomen<g ref="char:EOLhyphen"/>ting</hi> of obſtinacy in ſome, and inſnaring of others; the re<g ref="char:EOLhyphen"/>jecting of ſuch men (as have abuſed lenity) from the com<g ref="char:EOLhyphen"/>munion of the Church, may be, by the bleſſing of God, a great means to open their eyes, to ſtay others that waver, at leaſt, to free the Church from the guilt of bloud, the bloud of ſouls. How lightly ſoever ſome men ſpeak or think of the cenſures of the Church, yet are they ratified
+<pb n="47" facs="tcp:113497:28"/> by Chriſt in heaven; and a dreadfull thing it is to be condemned by the judgement of the Church.</p>
+            <p>Thus much of the ſecond eccleſiaſticall courſe to be ta<g ref="char:EOLhyphen"/>ken for the ſuppreſſing, or ſtaying the progreſſe of hereſie. I confeſſe, it is a point finds oppoſition, and from ſuch as it ought not: ſome teaching, that there is no intrinſecall power in the Church for ſuppreſſing hereſie and ſchiſme. Did the Apoſtles exerciſe none? Was there none in the Church for 300 yeers after Chriſt? Did they uſurp what they exerciſed? If not, who took away from the Church the power ſometimes exerciſed, never uſurped? Others ſay, Doctrine is the moſt effectuall way to root out here<g ref="char:EOLhyphen"/>ſie. That hereticks ſhould be convinced by ſound doctrine, hath been already declared: whether doctrine be the only or moſt effectuall way to root it out, I will not diſpute: (I hate ſo to compare doctrine and diſcipline, as the Prela<g ref="char:EOLhyphen"/>ticall party of late did preaching and prayer; ſo to advance the one, as to bring the other into diſ-reſpect) only I ſay, that diſcipline hath been very uſeful and effectuall to pre<g ref="char:EOLhyphen"/>vent the riſing of hereſies, as in the Church of Scotland; to ſuppreſſe their growth, as in the Church of Holland: to give inſtance neerer home, England is ſenſible of the good of diſcipline: In eighty yeers there did not ariſe a<g ref="char:EOLhyphen"/>mongſt us ſo many horrid opinions and blaſphemous he<g ref="char:EOLhyphen"/>reſies under <hi>Epiſcopacy,</hi> (a Government decryed as <hi>Anti<g ref="char:EOLhyphen"/>chriſtian)</hi> as have riſen in theſe few yeers, ſince we have been without Government: and in thoſe daies the errours that were, walked in darkneſſe; but in ours, they out-face the Sun. Why do all our Sectaries oppoſe the eſtabliſhing of Government? Would the wolves ſo earneſtly deſire the putting away of the dogs, were they not the fafety of the flock? But, as I ſaid, I will not diſpute.</p>
+            <p>Laſtly, (that I may ſpeak ſomething alſo to you, Right Honourable, and the reſidue, unto whoſe care the Govern<g ref="char:EOLhyphen"/>ment of this great City is, by the providence of the Al<g ref="char:EOLhyphen"/>mighty, committed) God expects it at the hand of the <hi>Magistrate,</hi> that he ſhould put forth all that power with
+<pb n="48" facs="tcp:113497:29"/> which he is inveſted from on high, for the ſuppreſſion of hereſies and ſchiſmes in the Church, and the cure of this ſpreading canker. I know, that in this ſcepticall time it is queſtioned by nullifidians, as moſt other truths are, whe<g ref="char:EOLhyphen"/>ther the Magiſtrate hath any calling to intermeddle in matters of religion: or if in matters of religion, whether in matters of opinion. I will not meddle much with di<g ref="char:EOLhyphen"/>ſputes in this queſtion. It is confeſſed by all, that the Ma<g ref="char:EOLhyphen"/>giſtrates, the Kings of Judah, did intermeddle for the abo<g ref="char:EOLhyphen"/>liſhing of errours, and reformation of the Church: Why may not Chriſtian Magiſtrates walk in their ſteps? Be<g ref="char:EOLhyphen"/>cauſe, ſay ſome, they were types, their actions in this point <note place="margin">M. S. to A. S.</note> typicall. But this is ſaid, not proved. Becauſe they med<g ref="char:EOLhyphen"/>dled only with Idolaters for idolatry, not Sectaries for opinions. Where is it read that they puniſhed Phariſees, Sadduces, Eſſeans? Where is it read, that there were any ſuch Sectaries in Judah, till the Scepter was departed? We read the Law, that not only <hi>the Prophet that ſpake in the</hi> 
+               <note place="margin">Deut. 18. 20.</note> 
+               <hi>name of another god,</hi> but <hi>the Prophet that preſumed to ſpeak in the Name of the true God, a word which he had not commanded, ſhould die:</hi> the falſe, or lying prophet, was guilty of death, as well as the idolatrous prophet: And <hi>quaere,</hi> Was not <hi>Jeremy</hi> queſtioned upon this law? Where in all the New <note place="margin">Jer. 26.</note> Teſtament hath the Magiſtrate power given him againſt hereſies and ſchiſms? Where hath he power given him a<g ref="char:EOLhyphen"/>gainſt adulteries and murthers? Speak out, Socinian: take away all Magiſtracy; if thou leaveſt him in his Vice-gerentſhip to God, <hi>as his miniſter, a revenger, to execute wrath upon him that doth evill,</hi> thou wilt never be exempted from the edge of his ſword, till thou canſt prove hereſies good; and that thou maiſt do, when thou canſt prove <hi>Gal.</hi> 5. 19, 20. 2 <hi>Joh.</hi> 11. <hi>Rev.</hi> 2. 15. to be no Scripture. I know divers Treatiſes have been publiſhed againſt this power of the Magiſtrate, which this time, this place permit not to examine: if God permit, the weakneſſe of them ſhall be in another manner diſcovered. For the preſent I lay down theſe three Propoſitions.</p>
+            <pb n="49" facs="tcp:113497:29"/>
+            <p>Firſt, There was never in the world any godly Emperor or King that can be produced, but thought the care of reli<g ref="char:EOLhyphen"/>gion did appertain to him, that it was his duty to ſuppreſs idolatries, hereſies, ſchiſms, and accordingly hath been act<g ref="char:EOLhyphen"/>ing, more or leſſe, to this purpoſe. That this care lay upon the Kings of Judah, is confeſſed: what Chriſtian Empe<g ref="char:EOLhyphen"/>rors have done, would be too long to relate. The firſt that ever was, gave this in charge to his deputies, That above <note place="margin">
+                  <hi>Hujus rei potiſ<g ref="char:EOLhyphen"/>ſimum compe<g ref="char:EOLhyphen"/>tentem curam gerant,</hi> Euſeb. l. 10. c. 6.</note> all other things, they ſhould have this in eſpeciall care, that the people, members of the orthodox Churches, ſhould not be corrupted with ſchiſmaticall or hereticall opinions; but that they that did deſigne ſuch a miſchief, ſhould be ſeverely puniſhed. His godly ſucceſſours walk<g ref="char:EOLhyphen"/>ed in his ſteps.</p>
+            <p>Secondly, That thoſe Emperors and Kings who are recorded <hi>voluntarily</hi> to have tolerated all religions, or <hi>careleſly</hi> to have neglected the growth of hereſies, and ſchiſms in the Church, have been, the former, Apoſtates, Atheiſts, Hereticks; the later branded for their neglect. It would be too long to inſtance in particulars: The firſt that ever did it (after <hi>Conſtantine)</hi> was <hi>Julian,</hi> infamous for his <note n="y" place="margin">
+                  <hi>Ex famulo Dei factus eſt miniſter inimici, Apoſta<g ref="char:EOLhyphen"/>tam ſe ſuis edictis teſtatus est.—Ire prae<g ref="char:EOLhyphen"/>cepit voto ſuo, quos intellexerat ad destruendam pacem cum furore venturos eſſe. Erubeſcite, ſi ullus eſt pudor. Eâdem voce vobis libertas est reddita, quâ voce idolorum patefieri juſſa ſunt templa,</hi> Op<g ref="char:EOLhyphen"/>tat. cont. Parm. l. 2.</note> apoſtacie; of a profeſ<g ref="char:EOLhyphen"/>ſed Chriſtian, he degenerated into a reall Pagan, and gave a toleration to Sectaries, that he might diſturb the peace of the Church, and overthrow Chriſtianity.</p>
+            <p>Thirdly, Never did any orthodox Divine conſtantly deny this power to the Magiſtrate, or plead for a tolerati<g ref="char:EOLhyphen"/>on of all ſects. Indeed <note n="z" place="margin">Retract. l. 2. cap. 5.</note> 
+               <hi>Auſtin</hi> was for a time of this opi<g ref="char:EOLhyphen"/>nion, that none ought to be compelled to the faith; but he retracted it. And <note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Epiſt. 77. Olymp.</note> 
+               <hi>Nazianzene</hi> was ſometimes too indul<g ref="char:EOLhyphen"/>gent to the Apollinarians, but confeſſeth, that he was i<g ref="char:EOLhyphen"/>gnorantly ſo, not knowing that hee had almoſt undone both them and the Church by his unſeaſonable philoſo<g ref="char:EOLhyphen"/>phie;
+<pb n="50" facs="tcp:113497:30"/> for, as <hi>Solomon, A ſervant will not be corrected with words.</hi> But no more of theſe at this time.</p>
+            <p>If any man ask, What hath the Magiſtrate done for the ſuppreſſing of hereſies? I anſwer, A learned Knight hath written a <note n="b" place="margin">The primi<g ref="char:EOLhyphen"/>tive practice.</note> Treatiſe upon this ſubject, in the fifth Section of which, he tels us, that the Magiſtrate hath made uſe of <hi>baniſhment, impriſonment, fining:</hi> to this purpoſe he makes mention alſo out of <hi>Severus,</hi> of one <hi>Priſcillianus</hi> put to death; which act, ſaith he, the Church was offended at: Poſſibly the Church might be offended at the manner of the doing, but, I think, hardly at the deed it ſelf; both be<g ref="char:EOLhyphen"/>cauſe <note n="c" place="margin">Epiſt. 93.</note> 
+               <hi>Leo,</hi> who lived not long after that time, expreſly commends the fact, and <note n="d" place="margin">
+                  <hi>Quaſi in vindictam Dei nullus mereatur occidi. Nemo erat laedendus ab operariis unitatis, ſed nec ab epiſcopis mandata divina contemni debuerant.—Si occidi malum eſt, mali ſui ipſi ſunt cauſa, &amp;c.</hi> Vide lib 3. cont. Parmen.</note> 
+               <hi>Opta<g ref="char:EOLhyphen"/>tus,</hi> who lived in the ſame time, juſtifies the practice of putting <hi>Schiſmaticks</hi> to death: unto whom I might adde <hi>Auguſtine</hi> in divers places; and <note n="e" place="margin">De ador. in ſpirit. &amp; verit. lib. 8.</note> 
+               <hi>Cyril</hi> of Alexandria, who taught, that hereticks, that ſteal away and make merchandize of the ſouls of men, might with as much reaſon be put to death, as thoſe under the law, that were found ſtealing of men, and ſelling them, <hi>Exod.</hi> 21. 16. And <hi>Theodoſius</hi> made a law, that whoſoever <hi>rebaptized</hi> any one baptized in the Church, <hi>ſhould die,</hi> and in ſome caſes the <hi>party rebaptized alſo.</hi> But of this more will be ſaid, if God permit, in an<g ref="char:EOLhyphen"/>other way.</p>
+            <p>Beſides theſe courſes acknowledged by that learned Knight, there was alſo great care taken for the ſuppreſſing of the writings of hereticks, which were by the <hi>imperiall lawes</hi> 
+               <note n="f" place="margin">Sez. l. 1. c. 20.</note> condemned to the fire, <note n="g" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Niceph. ecel. hiſt. l. 8. c. 25.</note> and that upon pain of death, to be without mercy or delay inflicted on whomſoever ſhould be found to conceal any of theſe writings: ſo great zeale there was to remove the very memory of he<g ref="char:EOLhyphen"/>reſies. There was no leſſe diligence and ſeverity uſed to prohibit the meetings of hereticks, <hi>it being by law</hi> forbid<g ref="char:EOLhyphen"/>den
+<pb n="51" facs="tcp:113497:30"/> them <note n="h" place="margin">Euſeb. de vit. Conſt. l. 3. c. 63.</note> to aſſemble together publickly or privately; their publick places were commanded to be thrown down by <hi>Conſtantine.</hi> 
+               <note n="i" place="margin">Theodoret. Eccl. hiſt. li. 5. c. 2.</note> Hee that entertained them in his houſe privately, if the owner of the houſe, forfeited it; if the te<g ref="char:EOLhyphen"/>nant, without the conſent of the owner, he forfeited 10. 1. in gold; if not worth ſo much, and a free-man, he loſt his <note place="margin">Cod. de ſum. Trin. l. 2.</note> liberty, and was made a ſlave; if a ſervant, he was beaten with clubs: And all this reaches not ſo far as the Scri<g ref="char:EOLhyphen"/>pture commands, and practices; where ſuch places, and not only ſuch, but <hi>the dwelling houſes</hi> of ſuch as ſpake evill of the God of Iſrael, were <hi>pulled down,</hi> and imployed to an un<g ref="char:EOLhyphen"/>clean uſe. I could tel you upon what grounds the <note n="k" place="margin">Naz. Or. 46.</note> Fathers preſſed theſe laws, but I reſerve them for another occaſion.</p>
+            <p>But our pleaders for toleration againſt the Magiſtrates power, object, ſome of them, that ſuch ſeverity will be a let and hindrance to the Churches growth. Ought not the Church to grow? It ought to grow, but not into a mon<g ref="char:EOLhyphen"/>ſter. We would have our children grow, we would not have them have new members: <note n="l" place="margin">
+                  <hi>Si quidem ad profectum perti<g ref="char:EOLhyphen"/>net ut in ſemet<g ref="char:EOLhyphen"/>ipſa unaquaeque res amplificetur, &amp;c.</hi> Vincent. Lirinenſ. cont. haereſ. c. 28.</note> We would have faith grow, but we would not have a new faith. <note n="m" place="margin">Tert. de prae<g ref="char:EOLhyphen"/>ſcript. c. 8.</note> It is one pro<g ref="char:EOLhyphen"/>perty of true faith, to beleeve, that nothing elſe is to be beleeved. Others, that theſe courſes will not ſuppreſſe he<g ref="char:EOLhyphen"/>reſies, but rather ſpread them. Indeed, truth wil not be ſup<g ref="char:EOLhyphen"/>preſſed by oppoſition, but errours will. By the laws of the Emperours put in execution, many of the ancient hereſies were deſtroyed, if ye will beleeve <note n="n" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Lib. 8. cap. 52. Sozom. ubi ſu<g ref="char:EOLhyphen"/>pra.</note> 
+               <hi>Nicephorus</hi> and other Hiſtorians. Moſt of them plead the ſevere judgements of God againſt the perſecuters of the ſaints. Who denies it? but are hereticks ſaints? Whether God be pleaſed or diſ<g ref="char:EOLhyphen"/>pleaſed with toleration of errours, if it may be concluded from the acts of his providence towards thoſe that have tolerated, or not tolerated divers religions, I ſhall deſire them to compare his dealings with <hi>Conſtantine</hi> the Great, and <hi>Theodoſius</hi> the Great, who, of all the Chriſtian Empe<g ref="char:EOLhyphen"/>rors, were the moſt zealous in ſuppreſſing Sectaries, and the moſt proſperous both in peace and war; and his deal<g ref="char:EOLhyphen"/>ings with <hi>Julian, Valens,</hi> or the <hi>Valentinians,</hi> that were
+<pb n="52" facs="tcp:113497:31"/> moſt indulgent to Sectaries: and then let them tell mee with whom God is beſt pleaſed. All cry out, Perſecution, perſecution. But that ſuffering which <hi>is not for righteouſ<g ref="char:EOLhyphen"/>neſſe ſake,</hi> is not perſecution: <hi>If you ſuffer for your faults,—what thank have you, though you bear it patiently?</hi> But would theſe men be thought to deny all power to the Ma<g ref="char:EOLhyphen"/>giſtrate in ſuppreſſing hereſies? By no means: the Magi<g ref="char:EOLhyphen"/>ſtrate (ſay they) may deny ſuch as are erroneous, places of truſt, places of honour, places of profit; he may diſcounte<g ref="char:EOLhyphen"/>nance them, &amp;c. My Lord, this (it is confeſſed on all hands) you may do, you need not fear ye ſin in doing this: Let this be done, let Sectaries be diſcountenanced, let here<g ref="char:EOLhyphen"/>ticks be denyed places of truſt, honour, profit, and you ſhall have few falſe prophets; for they, ſaith the <hi>Apostle,</hi> teach <hi>things which they ought not, for filthy lucre ſake.</hi> I will <note place="margin">Tit. 1. 9.</note> conclude in one word: It hath pleaſed God to ſtirre up your hearts (I ſpeak of the honourable court of Common-Councell) to be active for the ſettlement of Government, and ſuppreſſion of ſects: For what you have done, I bleſſe God, and beſeech you not to be weary of well-doing, but proceed in the work undertaken. I might urge you by the bond of the Covenant, which we have all taken, and you have lately renewed: I might tell you, It will never be a<g ref="char:EOLhyphen"/>ny grief of heart, to have owned the cauſe of God in evill times, and to have kept your hands clean from the bloud of ſoules: I only ſay, It was the glory of <hi>Conſtantine,</hi> that he had freed the <hi>Empire from tyranny, the Church from here<g ref="char:EOLhyphen"/>ſie.</hi> O that the ſame might be this Cities glory. You are famous over <hi>Chriſtendome,</hi> and ſhall be to all ages, that you have not ſpared <hi>estates</hi> or <hi>lives</hi> to deliver the <hi>King<g ref="char:EOLhyphen"/>dome from oppreſſion:</hi> preſſe hard on, that you may have in<g ref="char:EOLhyphen"/>tereſt in this <hi>glory,</hi> to have delivered the <hi>Church from con<g ref="char:EOLhyphen"/>fuſion.</hi> Which that you may doe, let us pray, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
